@@ -1,0 +1,50 @@
+Cook book of State Street Business Process Automation Platform
+State Street Business Process Automation Platform - BPAP  is a platform that allows users to automate their operational tasks and workflows. It provides a set of pre-configured modules and libraries that users can customize to create automated workflows. These modules can include input modules, validation modules, and output modules, among others. Users can use these modules to define the steps and sources for their workflows, enabling them to automate various operational processes.
+
+Introduction of three types Modules and built-in modules:
+
+1. Input Module: This kind of module is mainly to load data from application sources user defined by many different channels as RESTFUL API, SFTP, KAFKA, MQ etc.and even manual uploading. Mandatory attributes of this module are moduleName, moduleType, APIType, Input, output;
+  moduleName: is the module name
+  moduleType: is "input"
+  APIType: RESTFUL, PSDL
+  Input: the parameters defined for a specific input module
+  Output: the parameters defined for a specific input module
+Currently, there are a few input modules pre-defined to simplify users to create workflows. for examples:
+  Security Price Validation(SPIM) Input Module is using RESTFUL API call to outside application - Security Price, to fetch security price exceptions of a date .The input parameters and outputs are:
+    input parameters are: Portfolio, Date, Type=Exception,
+    output parameters are: NAV Date,FUND ID,ASSET ID,ASSET TYPE,MAKET IDENTIFIER,EXCEPTION TYPE,CURRENT PRICE,CURRENT PRICE DATE,CURRENT PRICE SOURCE,CURRENT PRICE TYPE,PREVIOUS PRICE,PREVIOUS PRICE DATE,PREVIOUS PRICE SOURCE,PREVIOUS PRICE TYPE,PRICE MOVEMENT PERCENTAGE
+    Defined json of this module is {moduleName:"SPVIM",moduleType:"input", APIType:"RESTFUL", URI:"",input:"Portfolio,Date,Type=Exception" output:"NAV Date,FUND ID,ASSET ID,ASSET TYPE,MAKET IDENTIFIER,EXCEPTION TYPE,CURRENT PRICE,CURRENT PRICE DATE,CURRENT PRICE SOURCE,CURRENT PRICE TYPE,PREVIOUS PRICE,PREVIOUS PRICE DATE,PREVIOUS PRICE SOURCE,PREVIOUS PRICE TYPE,PRICE MOVEMENT PERCENTAGE" }
+
+  Bloomberg Input Module(BBGIM) is using SFTP PSDL call to Bloomberg, to fetch any market data of securities, like price. The input parameters and outputs are:
+    input parameters: asset id, price date
+    output parameters: asset id, price date, price
+    defined json of this module is {moduleName:"BBGIM",moduleType:"input", APIType:"SFTP PSDL", SFTP_SERVER:"local",inputParameter:"SPVIM.asset id, SPVIM.price date" output:"asset id, price date, price" }
+
+2. Validation Module: This kind of module is to validate based on rules predefined, and figure out users' specific problems. For example for Security Price Exceptions - data loaded from SPV module, users can write rules to do tolerance check with the price in BBG, if price is in tolerance then the price would be valid. Rules in SQL, Python, Scala are supported.
+Mandatory attributes of this module are moduleName, moduleType, APIType, Input, output;
+  moduleName: is the module name
+  moduleType: is "input"
+  APIType: RESTFUL, PSDL
+  Input: the parameters defined for a specific input module
+  Output: the parameters defined for a specific input module
+
+Security Price Validation Module(SPVM) is predefined, the json of this module - the input modules are SVPIM and BBGIM, and then do security price tolerance check for price exception :
+  {moduleName:"SPVM",moduleType:"Validate", RulesLanguage:"SQL", input:"SVP.output, BBG.output", output:"select SVPIM.*, case when  (SVPIM.price-BBG.price)/SPVIM.price<0.1 then SPVIM.exception_updated = 'valid' from SVPIM left join BBGIM where SVPIM.asset_id = BBGIM.asset_id"}
+
+Users can generate standard SQL/Python/Scala rules by BPAP Assistant, and apply those rule to this module.
+How to generate SQL rules by BPAP chatGPT?
+
+3. Output Module: This kind of module is to define the output of the workflow. The result could be an excel report, calling RESTFUL API call, posting message formatted in json, xml to Kafka/MQ etc.
+Mandatory attributes of this module are moduleName, moduleType, APIType, Input, output;
+  moduleName: is the module name
+  moduleType: is "Output"
+  APIType: RESTFUL API, WebRobot, Excel, Kafka, MQ
+  RulesLang: SQL, Python, Scala
+  OutputRules: the rules to decide what data should be output
+  Output: the parameters defined for a specific input module
+Security Price Output Module is built-in module, which could be leveraged to post the fixed Security Price exceptions back to Security Price application. The json of this module is
+{moduleName:"SPOM", moduleType:"Output", APIType="RESTFUL", URI="", RulesLanguage:"SQL"}
+
+
+Based on their operation model, Users could generate workflow in the workflow design UI by dragging built-in modules.
+To fix Security Price Exceptions, creating automation workflow, users can use two built-in inputs modules SPIM, and BBGIM; One validation module SPVM; and one output module SPOM. SPVM will use validation rules defined to check outputs of SPIM and BBGIM, generate results and convey to Output Module SPOM to call RESTFUL API of outside Security Price application.
