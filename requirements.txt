@@ -1,0 +1,5 @@
+langcorn
+tiktoken
+unstructured
+hnswlib
+chromadb

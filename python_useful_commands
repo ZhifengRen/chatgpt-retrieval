@@ -1,5 +1,0 @@
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python3.10 get-pip.py
- python3.10 -m pip install langchain
- sudo apt-get install python3.10-dev
-

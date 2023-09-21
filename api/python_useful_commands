@@ -1,0 +1,16 @@
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3.10 get-pip.py
+ python3.10 -m pip install langchain
+ sudo apt-get install python3.10-dev
+
+
+
+pip install langchain openai tiktoken unstructured
+chromadb
+
+python3.10 -m pip install tiktoken unstructured
+python3.10 -m pip install langchain openai
+python3.10 -m pip install hnswlib
+python3.10 -m pip install chromadb
+
+bash "/Applications/Python 3.10/Install Certificates.command"

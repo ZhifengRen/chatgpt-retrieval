@@ -1,0 +1,1306 @@
+{
+  'status': 'ok',
+  'totalResults': 864,
+  'articles': [
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'Paresh Dave',
+      'title': 'Is Google’s Search Engine Smart or Sneaky? A Trial Court Judge Will Decide',
+      'description': 'Google’s search dominance is going on trial in the biggest US antitrust case since a crackdown on Big Tech that started in 2019.',
+      'url': 'https://www.wired.com/story/is-googles-search-engine-smart-or-sneaky-a-trial-court-judge-will-decide/',
+      'urlToImage': 'https://media.wired.com/photos/64fbb262ad5feafc253f613c/191:100/w_1280,c_limit/Google-Search-Engine-Antitrust-Lawsuit-Business-1638063681.jpg',
+      'publishedAt': '2023-09-10T11:00:00Z',
+      'content': 'A family members hurried Google search for a last-second visa to visit New Zealand recently caused a headacheand provided a timely reminder of why Google faces a landmark US antitrust trial next week… [+3093 chars]'
+    },
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'David Nield',
+      'title': 'How to Take Back Control of Your Photo and Video Storage',
+      'description': "Apple's iCloud and Google Photos make file storage easy—as long as your memories stay on someone else's server. There's another way.",
+      'url': 'https://www.wired.com/story/how-to-take-back-control-photos-videos/',
+      'urlToImage': 'https://media.wired.com/photos/64fbb045ce986fc4eb0e5520/191:100/w_1280,c_limit/How-to-Take-Back-Control-of-Your-Photo-and-Video-Storage-Gear-GettyImages-696155135.jpg',
+      'publishedAt': '2023-09-10T11:00:00Z',
+      'content': "This then leaves you with the question of how to get any new photos and videos you take on your phone off your device and on to your computer, where they can join everything you've just downloaded fr… [+2198 chars]"
+    },
+    {
+      'source': {
+        'id': 'wired',
+        'name': 'Wired'
+      },
+      'author': 'Edward Ongweso Jr.',
+      'title': 'Super Apps Are Terrible for People—and Great for Companies',
+      'description': 'Apps that offer to "do it all" will subject users to even more exploitation and surveillance, while large tech companies profit.',
+      'url': 'https://www.wired.com/story/super-app-musk-x-wechat-regulation/',
+      'urlToImage': 'https://media.wired.com/photos/64fa42075bae312310e8a2d3/191:100/w_1280,c_limit/ideas_superapps_technology_race.jpg',
+      'publishedAt': '2023-09-10T11:00:00Z',
+      'content': 'Recently, Elon Musktold X employees that he wants the platform to become a WeChat-style super app, a one-stop shop for social media, communication, travel, on-demand labor, payments, and more. But th… [+5187 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Justin Carter',
+      'title': 'The Haunted Mansion Remake Will Scare Disney+ in October',
+      'description': 'Back in July, Disney released its remake of Haunted Mansion, which didn’t really light the world on spectral fire when it came out. Part of it was due to other big movies releasing in late July at the time and stealing whatever thunder it could’ve possibly ha…',
+      'url': 'https://gizmodo.com/haunted-mansion-2023-remake-disney-plus-october-1850823262',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9f59896b29c717ae71e070ed6e7d013b.jpg',
+      'publishedAt': '2023-09-10T16:00:00Z',
+      'content': 'Back in July, Disney released its remake of Haunted Mansion, which didnt really light the world on spectral fire when it came out. Part of it was due to other big movies releasing in late July at the… [+1928 chars]'
+    },
+    {
+      'source': {
+        'id': 'bbc-news',
+        'name': 'BBC News'
+      },
+      'author': 'https://www.facebook.com/bbcnews',
+      'title': 'US and Vietnam get a friendship upgrade',
+      'description': "The US and Vietnam are becoming better friends - and that's a troubling prospect for China.",
+      'url': 'https://www.bbc.co.uk/news/world-66748670',
+      'urlToImage': 'https://ichef.bbci.co.uk/news/1024/branded_news/7981/production/_131050113_gettyimages-1656690718.jpg',
+      'publishedAt': '2023-09-10T22:16:09Z',
+      'content': "President Joe Biden has denied that the US is attempting to stem China's international influence, after signing a new strategic partnership with Vietnam. \r\nMore than 50 years since the last American … [+8126 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Android Central'
+      },
+      'author': 'harish.jonnalagadda@futurenet.com (Harish Jonnalagadda)',
+      'title': 'Review: Stuffcool Ally is a 10,000mAh power bank that charges your Apple Watch',
+      'description': 'Stuffcool just introduced a 10,000mAh power bank that has a built-in dock to charge the Apple Watch. Combine that with a bundled Lighting cable and dual USB-C ports, and you have the best power bank for iOS devices in India.',
+      'url': 'https://www.androidcentral.com/accessories/stuffcool-ally-power-bank-review',
+      'urlToImage': 'https://cdn.mos.cms.futurecdn.net/gbWPhjTjRX8hEYXh4ejTs-1200-80.jpg',
+      'publishedAt': '2023-09-10T06:48:26Z',
+      'content': "Stuffcool is an Indian accessory maker that's doing all the right things. The brand has an extensive portfolio of chargers and power banks, and I've highlighted several previously, including the 20,0… [+3549 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Android Central'
+      },
+      'author': 'michael.hicks@futurenet.com (Michael L Hicks)',
+      'title': "How I boosted my VO2 Max fitness to 'excellent' on my Garmin watch",
+      'description': 'VO2 Max is the key metric all smartwatches use to determine how fit you are. Here\'s how I boosted my score from "Good" to "Excellent" in just a couple of months.',
+      'url': 'https://www.androidcentral.com/wearables/how-i-boosted-my-vo2-max-score-on-my-garmin-watch',
+      'urlToImage': 'https://cdn.mos.cms.futurecdn.net/4jwRPUt9azDNBeNZMxn6rV-1200-80.jpeg',
+      'publishedAt': '2023-09-10T15:00:52Z',
+      'content': 'VO2 Max, or the maximum volume of oxygen that your body can inhale and convert into energy during an intense workout, is the main metric most smartwatches use to judge your athleticism. Brands like S… [+15667 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'MacRumors'
+      },
+      'author': 'Hartley Charlton',
+      'title': 'Apple May Be Planning to Discontinue All of Its Silicone Accessories',
+      'description': 'Apple may be planning to discontinue its silicone rubber and fluoroelastomer accessories, replacing them with ones made of more eco-friendly next-generation materials, MacRumors has been told.\n\n\n\n\n\nThe move is expected to include accessories such as the iPhon…',
+      'url': 'https://www.macrumors.com/2023/09/10/apple-planning-to-discontinue-silicone-accessories/',
+      'urlToImage': 'https://images.macrumors.com/t/9PTUYzfP9KsH3ATb4vZg6FBlE38=/2056x/article-new/2023/03/iPhone-14-and-14-Plus-New-Silcone-Case-Colors-Feature.jpg',
+      'publishedAt': '2023-09-10T18:48:22Z',
+      'content': 'Apple may be planning to discontinue its silicone rubber and fluoroelastomer accessories, replacing them with ones made of more eco-friendly next-generation materials, MacRumors has been told.\r\nThe m… [+1856 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'CNET'
+      },
+      'author': 'Kourtnee Jackson',
+      'title': "How to Watch 'The Walking Dead: Daryl Dixon' Without Cable - CNET",
+      'description': 'Join the hero in the new spinoff as he tussles with zombies and more in a foreign land.',
+      'url': 'https://www.cnet.com/tech/services-and-software/how-to-watch-the-walking-dead-daryl-dixon-without-cable/',
+      'urlToImage': 'https://www.cnet.com/a/img/resize/215c99490b61512cd97e679e1e605e608401e80e/hub/2023/09/08/3c9c1030-c07d-4a96-8a51-8aa7653218ad/daryl-dixon-amc.jpg?auto=webp&fit=crop&height=675&width=1200',
+      'publishedAt': '2023-09-10T12:15:03Z',
+      'content': "You can skip the Louvre and see France through Daryl Dixon's eyes in the newest spinoff from The Walking Dead universe. Norman Reedus reprises his fan-favorite role in The Walking Dead: Daryl Dixon, … [+11009 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'prosen@insider.com (Phil Rosen)',
+      'title': "Arm and Instacart's splashy IPOs won't be enough to revive a market in a slump reminiscent of the dot-com bust",
+      'description': 'Startup and IPO experts see parallels between now and two decades ago, when scores of companies failed and few were brave enough to IPO.',
+      'url': 'https://markets.businessinsider.com/news/stocks/arm-ipo-instacart-market-dot-com-bubble-investors-finance-stocks-2023-9',
+      'urlToImage': 'https://i.insider.com/64fb689ba39a1b00190c177f?width=1200&format=jpeg',
+      'publishedAt': '2023-09-10T12:15:01Z',
+      'content': "There's plenty of attention on both Arm and Instacart's impending initial public offerings, but it's wishful thinking to expect the debuts to revive a market that's still feeling a hangover from the … [+4958 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'Polly Thompson',
+      'title': 'When the next Apple launch event is being held, how to watch it –\xa0and what to expect from the new iPhone 15',
+      'description': 'Apple is set to reveal the iPhone 15 at its annual launch event on Tuesday. Here\'s how to watch "Wonderlust," what to expect and why it matters even more this year.',
+      'url': 'https://www.businessinsider.com/apple-launch-event-how-watch-livestream-expect-new-iphone-15-2023-9',
+      'urlToImage': 'https://i.insider.com/64fd9115a39a1b00190cabfc?width=1200&format=jpeg',
+      'publishedAt': '2023-09-10T10:02:45Z',
+      'content': 'Apple CEO Tim Cook at the 2022 launch event in Cupertino. Justin Sullivan\r\n<ul><li>The next Apple launch event, titled "Wonderlust," is being held on Tuesday.</li><li>The iPhone 15 and a new Apple Wa… [+3780 chars]'
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'Quentyn Kennemer',
+      'title': 'How to watch UFC 293: Adesanya vs. Strickland live stream online from anywhere',
+      'description': "Want to witness Adesanya vs. Strickland for the welterweight title? Here's how to watch UFC 293 live streams from anywhere.",
+      'url': 'https://www.businessinsider.com/guides/streaming/how-to-watch-ufc-293-live-stream-adesanya-vs-strickland',
+      'urlToImage': 'https://i.insider.com/64fa6bca3d3923001976552a?width=1200&format=jpeg',
+      'publishedAt': '2023-09-10T00:00:01Z',
+      'content': "Israel Adesanya.Photo by Getty Images\r\nWhen you buy through our links, Insider may earn an affiliate commission. Learn moreEveryone should be excited for UFC 293's main card. It features middleweight… [+6384 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'Business Insider',
+      'title': 'CD and Savings Account Rates Today | Earn Over 5% on Savings and CDs',
+      'description': "If you're considering opening a savings account or CD today and want a competitive rate, Insider did the research to help you find the best rate across popular savings accounts and CD terms.",
+      'url': 'https://www.businessinsider.com/personal-finance/cd-rates-savings-account-rates-today-sunday-10-2023-9',
+      'urlToImage': 'https://i.insider.com/64e3904db698ac0019de3ba4?width=1200&format=jpeg',
+      'publishedAt': '2023-09-10T12:32:01Z',
+      'content': "Our experts answer readers' banking questions and write unbiased product reviews (here's how we assess banking products). In some cases, we receive a commission from our partners; however, our opinio… [+12200 chars]"
+    },
+    {
+      'source': {
+        'id': 'business-insider',
+        'name': 'Business Insider'
+      },
+      'author': 'Juliana Kaplan,Noah Sheidlower',
+      'title': 'Cash-strapped New Yorkers are doing the unthinkable: Moving to Jersey City',
+      'description': 'NYC has become so expensive that New Yorkers are increasingly doing something that was once taboo: Willingly moving to Jersey.',
+      'url': 'https://www.businessinsider.com/people-moving-from-nyc-too-expensive-to-jersey-city-2023-9',
+      'urlToImage': 'https://i.insider.com/64fb541c3d3923001976fd4d?width=1200&format=jpeg',
+      'publishedAt': '2023-09-10T10:50:01Z',
+      'content': 'A Staten Island Ferry sails past the skyline of Jersey City, New Jersey, and the Statue of Liberty as the sun sets on August 19, 2023, in New York City. Gary Hershorn/Getty Images\r\n<ul><li>New Yorker… [+10652 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Xataka.com'
+      },
+      'author': 'Javier Lacort',
+      'title': 'En defensa de la tecnología offline',
+      'description': 'Apple suele presumir de sostenibilidad. La saca a relucir al inicio de cada keynote y se escuda en ella para decisiones como la de retirar el adaptador de carga de la caja de los iPhone. Sin embargo, algunas decisiones sutiles de ciertos productos van en líne…',
+      'url': 'https://www.xataka.com/internet-of-things/defensa-tecnologia-offline',
+      'urlToImage': 'https://i.blogs.es/7ce8fa/offline/840_560.jpeg',
+      'publishedAt': '2023-09-10T10:01:02Z',
+      'content': 'Apple suele presumir de sostenibilidad. La saca a relucir al inicio de cada keynote y se escuda en ella para decisiones como la de retirar el adaptador de carga de la caja de los iPhone. Sin embargo,… [+4283 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Daringfireball.net'
+      },
+      'author': 'John Gruber',
+      'title': '★ The China-Apple Cold War Heats Up',
+      'description': 'A symbiotic relationship might be cracking.',
+      'url': 'https://daringfireball.net/2023/09/china_apple_cold_war',
+      'urlToImage': 'https://daringfireball.net/graphics/df-wide-card.png',
+      'publishedAt': '2023-09-10T19:36:30Z',
+      'content': 'Yoko Kubota, reporting from Beijing for The Wall Street Journal Wednesday (News+ link):\n\n\n China ordered officials at central government agencies not to use\nApple’s iPhones and other foreign-branded … [+7462 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Utexas.edu'
+      },
+      'author': 'Adrienne Lee',
+      'title': 'A Texas Semiconductor Boom on the Horizon',
+      'description': 'In the years since the COVID-19 pandemic crippled the global supply chain for chips that power everything from video games to cars to medical devices,',
+      'url': 'https://news.utexas.edu/2023/09/08/a-texas-semiconductor-boom-on-the-horizon/',
+      'urlToImage': 'https://news.utexas.edu/wp-content/uploads/2023/09/2023-ECE-SEMICONDUCTOR-DAY-1093-scaled.jpeg',
+      'publishedAt': '2023-09-10T09:54:02Z',
+      'content': 'In the years since the COVID-19 pandemic crippled the global supply chain for chips that power everything from video games to cars to medical devices, semiconductors have been atop the national polic… [+5781 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Neurosciencenews.com'
+      },
+      'author': 'Neuroscience News',
+      'title': 'Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America',
+      'description': 'Food brands owned by tobacco companies have actively disseminated hyperpalatable foods, loaded with salts, fats, and sugars, to American consumers.',
+      'url': 'https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/',
+      'urlToImage': 'https://neurosciencenews.com/files/2023/09/big-tobacco-food-neurosinces.jpg',
+      'publishedAt': '2023-09-10T22:19:19Z',
+      'content': 'Summary: Food brands owned by tobacco companies have actively disseminated hyperpalatable foods, loaded with salts, fats, and sugars, to American consumers. Researchers say these foods provide an enh… [+8356 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gigazine.net'
+      },
+      'author': '@GIGAZINE',
+      'title': 'iPhone 15 Proはチタンフレーム採用で重量が大幅に減少、詳細な寸法・重量も明らかに',
+      'description': 'Apple関連のリーク情報でおなじみのBloombergのマーク・ガーマン記者は、2023年秋発売予定のiPhone 15 ProがiPhone 14 Proよりも最大10％軽量になると報じました。新たに、Apple関連メディアのMacRumorsが、iPhone 15シリーズの詳細な寸法および重量を報じています。続きを読む...',
+      'url': 'https://gigazine.net/news/20230910-iphone-15-pro-weights-dimensions/',
+      'urlToImage': 'https://i.gzn.jp/img/2023/09/10/iphone-15-pro-weights-dimensions/00_m.jpg',
+      'publishedAt': '2023-09-10T10:00:00Z',
+      'content': 'AppleBloomberg2023iPhone 15 ProiPhone 14 Pro10AppleMacRumorsiPhone 15\r\niPhone 15 and iPhone 15 Pro: Complete Weights and Dimensions - MacRumorshttps://www.macrumors.com/2023/09/09/iphone-15-weights-a… [+917 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'heise online'
+      },
+      'author': 'Stefan Krempl',
+      'title': 'Missing Link: Staatstrojaner – der Demokratie-Killer, der fast keinen juckt',
+      'description': 'Pegasus, Predator, FinFisher & Co. sorgen ständig für Skandale, die aber oft verpuffen. Die Ampel-Koalition will jetzt handeln und IT-Schwachstellen schließen.',
+      'url': 'https://www.heise.de/hintergrund/Missing-Link-Staatstrojaner-der-Demokratie-Killer-der-fast-keinen-juckt-9298012.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag',
+      'urlToImage': 'https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/8/9/0/8/shutterstock_1843250155-0d513692c6d59da4.jpg',
+      'publishedAt': '2023-09-10T06:05:00Z',
+      'content': 'Inhaltsverzeichnis\r\nStaatstrojaner gelten als dystopische Technologie. Die bekannteste Variante dieser digitalen Waffen ist Pegasus von der israelischen NSO Group. Diese Überwachungssoftware beschrei… [+7656 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': '9to5Mac'
+      },
+      'author': 'Chance Miller',
+      'title': 'Rumor: Apple to discontinue silicone accessories, including iPhone cases and Apple Watch bands',
+      'description': 'We are less than 48 hours away from Apple’s “Wonderlust” event, where it will announce the all-new iPhone 15 and iPhone 15 Pro. A new last-minute rumor today suggests that in addition to retiring its lineup of leather cases this year, Apple might also start g…',
+      'url': 'https://9to5mac.com/2023/09/10/silicon-iphone-apple-watch-accessories-rumor/',
+      'urlToImage': 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/iphone-14-pro-silicone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1',
+      'publishedAt': '2023-09-10T19:29:23Z',
+      'content': 'We are less than 48 hours away from Apple’s “Wonderlust” event, where it will announce the all-new iPhone 15 and iPhone 15 Pro. A new last-minute rumor today suggests that in addition to retiring its… [+2254 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': '9to5Mac'
+      },
+      'author': 'Chance Miller',
+      'title': 'Apple Stores prep for iPhone 15 and USB-C, bigger focus on in-store setup, more',
+      'description': 'Ahead of Tuesday’s iPhone 15 event, Apple’s retail system is in full swing, preparing for what’s to come. Bloomberg’s Mark Gurman is out with a few last-minute details, including an interesting tidbit that Apple will “push in-store setup further” this year th…',
+      'url': 'https://9to5mac.com/2023/09/10/iphone-15-usb-c-retil-stores-setup-more/',
+      'urlToImage': 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-oxmoor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1',
+      'publishedAt': '2023-09-10T19:55:35Z',
+      'content': 'Ahead of Tuesday’s iPhone 15 event, Apple’s retail system is in full swing, preparing for what’s to come. Bloomberg’s Mark Gurman is out with a few last-minute details, including an interesting tidbi… [+2072 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': '9to5Mac'
+      },
+      'author': 'Chance Miller',
+      'title': 'iOS 17: Everything you need to know about new features, release dates, and more',
+      'description': 'iOS 17 was officially announced at WWDC, marking Apple’s biggest annual software update for iPhone users. This year, iOS 17 packs new features for Messages, FaceTime, and widgets. Head below for a roundup of our coverage, new features, details on betas and re…',
+      'url': 'https://9to5mac.com/2023/09/10/ios-17-new-features-release-date-devices/',
+      'urlToImage': 'https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/iOS-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1',
+      'publishedAt': '2023-09-10T19:58:15Z',
+      'content': 'iOS 17 was officially announced at WWDC, marking Apple’s biggest annual software update for iPhone users. This year, iOS 17 packs new features for Messages, FaceTime, and widgets. Head below for a ro… [+9943 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Genbeta.com'
+      },
+      'author': 'Eva Rodriguez',
+      'title': 'Mi Mac ha sido hackeado: siete recomendaciones de seguridad para minimizar riesgos y solucionarlo',
+      'description': 'Detectar que te han hackeado el Mac es una tarea complicada, fundamentalmente porque uno de los objetivos de los hackers es que su actividad pase desapercibida. Sin embargo, hay síntomas más o menos sospechosos como accesos remotos, súbita lentitud, aplicacio…',
+      'url': 'https://www.genbeta.com/a-fondo/mi-mac-ha-sido-hackeado-siete-recomendaciones-seguridad-para-minimizar-riesgos-solucionarlo',
+      'urlToImage': 'https://i.blogs.es/f39de8/smartmockups_lmadmeob/840_560.jpeg',
+      'publishedAt': '2023-09-10T10:01:02Z',
+      'content': 'Detectar que te han hackeado el Mac es una tarea complicada, fundamentalmente porque uno de los objetivos de los hackers es que su actividad pase desapercibida. Sin embargo, hay síntomas más o menos … [+5891 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Genbeta.com'
+      },
+      'author': 'Eva Rodriguez',
+      'title': 'Ya no escribo en Microsoft Word, uso Google Docs: 11 funciones poco conocidas para sacarle todo el partido',
+      'description': 'Aunque históricamente siempre he usado Microsoft Word para mis trabajos, cuando cambié de Windows a Mac descubrí Pages y empecé a combinar Word con el procesador de textos de Apple. Sin embargo, tener que comprar la licencia de la suite de Office por un lado …',
+      'url': 'https://www.genbeta.com/a-fondo/no-uso-microsoft-word-uso-google-docs-11-funciones-poco-conocidas-para-sacarle-todo-partido',
+      'urlToImage': 'https://i.blogs.es/95a4c3/docs/840_560.jpeg',
+      'publishedAt': '2023-09-10T15:01:09Z',
+      'content': 'Aunque históricamente siempre he usado Microsoft Word para mis trabajos, cuando cambié de Windows a Mac descubrí Pages y empecé a combinar Word con el procesador de textos de Apple. Sin embargo, tene… [+5953 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Stephen Silver)',
+      'title': 'Crime blotter: Five indicted in California Apple product thefts',
+      'description': "In the latest Apple Crime Blotter, video emerges of a woman in China biting iPhone cable, North Carolina businessmen sentenced in fraud, and Sam Bankman-Fried's story is coming to Apple TV+.Apple Store at Grand Arcade in the U.K. The latest in an occasional A…",
+      'url': 'https://appleinsider.com/articles/23/09/10/crime-blotter-five-indicted-in-california-apple-product-thefts',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56235-114135-grandarcade-xl.jpg',
+      'publishedAt': '2023-09-10T11:14:35Z',
+      'content': 'Apple Store at Grand Arcade in the U.K. \r\nIn the latest Apple Crime Blotter, video emerges of a woman in China biting iPhone cable, North Carolina businessmen sentenced in fraud, and Sam Bankman-Frie… [+5252 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Malcolm Owen)',
+      'title': 'Apple may discontinue silicone iPhone case in eco-friendly push',
+      'description': 'Apple may go further than eliminating leather cases from the iPhone 15 range, as a rumor claims Apple may eventually discontinue the use of silicone for its accessories.iPhone 14 silicone casesRumors throughout August put forward the idea that Apple will be m…',
+      'url': 'https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56254-114190-53352-107007-new-silicopne-cases-xl-xl.jpg',
+      'publishedAt': '2023-09-10T20:35:22Z',
+      'content': 'iPhone 14 silicone cases\r\nApple may go further than eliminating leather cases from the iPhone 15 range, as a rumor claims Apple may eventually discontinue the use of silicone for its accessories. \r\nR… [+1537 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Evan Selleck)',
+      'title': 'Apple Studio Display vs Samsung ViewFinity S9 5K -- compared',
+      'description': "Apple Studio Display has a brand new competitor with the Samsung ViewFinity S9 5K. Here's how the two standalone monitors compare.Apple Studio Display vs Samsung ViewFinity S9 5KApple discontinued the Thunderbolt Display in 2016 and waited five years before l…",
+      'url': 'https://appleinsider.com/inside/studio-display/vs/apple-studio-display-vs-samsung-viewfinity-s9-5k----compared',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56103-113978-AppleSDvsSamsungVFS9-xl.jpg',
+      'publishedAt': '2023-09-10T13:14:05Z',
+      'content': "Apple Studio Display vs Samsung ViewFinity S9 5K\r\nApple Studio Display has a brand new competitor with the Samsung ViewFinity S9 5K. Here's how the two standalone monitors compare.\r\nApple discontinue… [+9027 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Malcolm Owen)',
+      'title': 'Apple Stores run stocks low, brace for changes after iPhone 15 event',
+      'description': 'Apple may be preparing for a quick release of its new products, such as the iPhone 15, with Apple Stores running down stock and bracing for an evening merchandise reset the evening after Tuesday\'s event.Apple RestonApple will be holding its "Wonderlust" speci…',
+      'url': 'https://appleinsider.com/articles/23/09/10/apple-stores-run-stocks-low-brace-for-changes-after-iphone-15-event',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56255-114192-51462-101839-reston-apple-store-xl-xl.jpg',
+      'publishedAt': '2023-09-10T21:03:06Z',
+      'content': 'Apple Reston\r\nApple may be preparing for a quick release of its new products, such as the iPhone 15, with Apple Stores running down stock and bracing for an evening merchandise reset the evening afte… [+1595 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Chip Loder)',
+      'title': 'How to move or change your Apple Music library folder in macOS Ventura',
+      'description': "The Apple Music app normally stores your media in your user's home folder, but it can consume a lot of space. Here's how to change its location.When you buy a new Mac or reinstall macOS it comes with Apple's Music app which lets you manage and play back music…",
+      'url': 'https://appleinsider.com/inside/apple-music/tips/how-to-move-or-change-your-apple-music-library-folder-in-macos-ventura',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/55508-112741-lede-xl.jpg',
+      'publishedAt': '2023-09-10T15:04:42Z',
+      'content': "The Apple Music app normally stores your media in your user's home folder, but it can consume a lot of space. Here's how to change its location.\r\nWhen you buy a new Mac or reinstall macOS it comes wi… [+4278 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Jess Pingrey)',
+      'title': 'Daily deals Sept. 10: 15" MacBook Pro for $588, 32% off Beats Studio Buds Plus, 37% off a Shark IQ Robot Vacuum, more',
+      'description': "Today's top deals include 26% off a Corsair gaming keyboard, $52 off an Apple USB-C VGA multiport adapter, 28% off an iPhone 14 Pro Max silicone case with MagSafe, 62% off a EPOS I Sennheiser headset, and more.Get 75% off a MacBook ProThe AppleInsider crew co…",
+      'url': 'https://appleinsider.com/articles/23/09/10/daily-deals-sept-10-15-macbook-pro-for-588-32-off-beats-studio-buds-plus-37-off-a-shark-iq-robot-vacuum-more',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56248-114170-daily-deals-sept-10-xl.jpg',
+      'publishedAt': '2023-09-10T15:27:45Z',
+      'content': "Get 75% off a MacBook Pro\r\nToday's top deals include 26% off a Corsair gaming keyboard, $52 off an Apple USB-C VGA multiport adapter, 28% off an iPhone 14 Pro Max silicone case with MagSafe, 62% off … [+3944 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Malcolm Owen)',
+      'title': 'iPhone 15 Pro with periscope camera & titanium expected to entice buyers',
+      'description': 'A very reliable leaker has doubled down on rumors surrounding Tuesday\'s iPhone 15 Pro launches, and has doubled-down on Apple\'s use of titanium frames and the periscope camera on the iPhone 15 Pro Max.iPhone 15 Pro camera renderApple will be holding its "Wond…',
+      'url': 'https://appleinsider.com/articles/23/09/10/iphone-15-pro-titanium-periscope-camera-rumors-are-doubled-down',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56251-114169-56213-114105-iPhone-15-Pro-camera-xl-xl.jpg',
+      'publishedAt': '2023-09-10T13:36:36Z',
+      'content': "iPhone 15 Pro camera render\r\nA very reliable leaker has doubled down on rumors surrounding Tuesday's iPhone 15 Pro launches, and has doubled-down on Apple's use of titanium frames and the periscope c… [+1313 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'AppleInsider'
+      },
+      'author': 'news@appleinsider.com (Malcolm Owen)',
+      'title': 'Sonnet Solo2.5G Gigabit Ethernet Adapter adds wired networking to MacBooks',
+      'description': "Sonnet's Solo2.5G is a 2.5 Gigabit Ethernet adapter that connects to USB-C, one that is compact enough to be easily carried around with a MacBook Pro.Launched on Wednesday, the Sonnet Solo2.5G is a 2.5 Gigabit Ethernet adapter for connecting computers that la…",
+      'url': 'https://appleinsider.com/articles/23/09/10/sonnet-solo25g-gigabit-ethernet-adapter-adds-wired-networking-to-macbooks',
+      'urlToImage': 'https://photos5.appleinsider.com/gallery/56250-114165-sonnettech-xl.jpg',
+      'publishedAt': '2023-09-10T13:07:36Z',
+      'content': "Sonnet's Solo2.5G is a 2.5 Gigabit Ethernet adapter that connects to USB-C, one that is compact enough to be easily carried around with a MacBook Pro. \r\nLaunched on Wednesday, the Sonnet Solo2.5G is … [+1029 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.jp'
+      },
+      'author': 'はらいさん',
+      'title': 'ウワサであってくれ…iPhone 15 Pro Maxだけ値上げ説',
+      'description': '真相はまもなく明らかに。いよいよあと数日後に迫ったApple（アップル）の新製品発表イベント。iPhone15シリーズはUSB-Cポート採用やバッテリー容量が増えるとの予想もありますが、気になるのが本体価格です。数日前にはiPhone15ProとiPhone15ProMaxは値上げされるとの予想がありましたが、今回出た予想は少し内容が異なります。iPhone15ProMaxだけ値上げ？台湾のリサー',
+      'url': 'https://www.gizmodo.jp/2023/09/iphone-15-pro-max.html',
+      'urlToImage': 'https://media.loom-app.com/gizmodo/dist/images/2023/01/19/2023-01-19ipk00.jpg?w=1280&h=630&f=jpg',
+      'publishedAt': '2023-09-10T04:00:00Z',
+      'content': 'AppleiPhone 15USB-C\r\niPhone 15 ProiPhone 15 Pro Max\r\nTrendForceiPhone 15 Pro Max1,199177000Apple StoreiPhone 14 Pro Max1099162000100\r\niPhone 15 Pro Max\r\niPhone 15 ProiPhone 14 Pro999147000\r\niPhone 15… [+29 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'CNET'
+      },
+      'author': 'Connie Guglielmo',
+      'title': "AI and You: Big Tech Goes to DC, Google Takes On 'Synthetic' Political Ads - CNET",
+      'description': "Get up to speed on the rapidly evolving world of AI with our roundup of the week's developments.",
+      'url': 'https://www.cnet.com/tech/computing/ai-and-you-big-tech-goes-to-dc-google-takes-on-synthetic-political-ads/',
+      'urlToImage': 'https://www.cnet.com/a/img/resize/ea31e68ae543d095895b4a301ff62fa18c4b3928/hub/2023/09/09/2e15f696-30c3-4d33-a3e0-346d2154bde0/colorful-ai-by-getty.jpg?auto=webp&fit=crop&height=675&width=1200',
+      'publishedAt': '2023-09-10T12:00:15Z',
+      'content': 'Sen. Chuck Schumer invited Big Tech leaders to an AI Insight Forum\xa0in Washington, DC, as the US works to figure out how to regulate artificial intelligence. Closed-door meetings set for Sept. 13 will… [+14130 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Yanko Design'
+      },
+      'author': 'Sarang Sheth',
+      'title': 'This Game-Changing Table Mat Wirelessly Charges your Keyboard, Mouse, Smartphone, and AirPods',
+      'description': 'This Game-Changing Table Mat Wirelessly Charges your Keyboard, Mouse, Smartphone, and AirPodsThe JSD Mat does what Apple’s AirPower Mat couldn’t do… and more than that, it’s a real, existing product. It’s the year 2023 and we...',
+      'url': 'https://www.yankodesign.com/2023/09/09/this-game-changing-table-mat-wirelessly-charges-your-keyboard-mouse-smartphone-and-airpods/',
+      'urlToImage': 'https://www.yankodesign.com/images/design_news/2023/09/this_desk_mat_wirelessly_charges_your_keyboard_mouse_smartphone_AirPods_hero.jpg',
+      'publishedAt': '2023-09-10T00:45:16Z',
+      'content': 'The JSD Mat does what Apple’s AirPower Mat couldn’t do… and more than that, it’s a real, existing product.\r\nIt’s the year 2023 and we really haven’t achieved the full potential with wireless chargers… [+5514 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Journal du geek'
+      },
+      'author': 'Olivier',
+      'title': 'VanMoof trouve finalement un repreneur',
+      'description': "VanMoof, qui s'est déclaré en faillite, a finalement trouvé un nouveau propriétaire avec Lavoie. Avec des investissements substantiels et un changement de stratégie commerciale, le repreneur entend remettre la marque sur les bons rails.\nVanMoof trouve finalem…",
+      'url': 'https://www.journaldugeek.com/2023/09/10/vanmoof-trouve-finalement-un-repreneur/',
+      'urlToImage': 'https://www.journaldugeek.com/content/uploads/2023/09/vanmoof.jpg',
+      'publishedAt': '2023-09-10T12:00:49Z',
+      'content': "VanMoof, qui s'est déclaré en faillite, a finalement trouvé un nouveau propriétaire avec Lavoie. Avec des investissements substantiels et un changement de stratégie commerciale, le repreneur entend r… [+2751 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Applesfera.com'
+      },
+      'author': 'Jesús Quesada',
+      'title': 'Reloj Apple Watch Series 8 VS Amazfit Cheetah Pro: características, diferencias y precios',
+      'description': 'Hay tantos relojes "inteligentes" en el mercado que tomar una decisión de compra puede ser complicado. Si se tiene un iPhone, es posible que se piense en el Apple Watch como la mejor opción al ser el único que es totalmente compatible con el teléfono móvil de…',
+      'url': 'https://www.applesfera.com/seleccion/reloj-apple-watch-series-8-vs-amazfit-cheetah-pro-caracteristicas-diferencias-precios',
+      'urlToImage': 'https://i.blogs.es/c845b1/apple-watch-series-8-vs-amazfit-cheetah-pro/840_560.jpeg',
+      'publishedAt': '2023-09-10T17:01:10Z',
+      'content': 'Hay tantos relojes "inteligentes" en el mercado que tomar una decisión de compra puede ser complicado. Si se tiene un iPhone, es posible que se piense en el Apple Watch como la mejor opción al ser el… [+10101 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Applesfera.com'
+      },
+      'author': 'Miguel López',
+      'title': 'Las esperanzas para un evento en octubre se desvanecen, pero habrá sorpresas según Gurman',
+      'description': 'Faltan poco más de 48 horas para que el evento \'Wonderlust\' de Apple comience. Tenemos una idea bastante formada de lo que se va a presentar y de lo que no se va a presentar, con lo que después de ese evento esperamos una reorganización de la "rumoresfera" ha…',
+      'url': 'https://www.applesfera.com/rumores/esperanzas-para-evento-octubre-se-desvanecen-habra-sorpresas-gurman',
+      'urlToImage': 'https://i.blogs.es/06b93e/captura-de-pantalla-2023-09-10-a-las-12.18.24/840_560.jpeg',
+      'publishedAt': '2023-09-10T11:01:02Z',
+      'content': "Faltan poco más de 48 horas para que el evento 'Wonderlust' de Apple comience. Tenemos una idea bastante formada de lo que se va a presentar y de lo que no se va a presentar, con lo que después de es… [+1883 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Applesfera.com'
+      },
+      'author': 'Pedro Aznar',
+      'title': 'Las costuras que importan',
+      'description': 'Hay costuras que nos tejen de muchas formas. Unas, nos ayudan a cicatrizar cuando necesitamos recuperarnos de algo. Otras, son las que nos hacen más fuertes. Pero no todas pertenecen a los extremos, porque la vida no es sólo arriba o abajo, blanco o negro. Ha…',
+      'url': 'https://www.applesfera.com/eventos/costuras-que-importan',
+      'urlToImage': 'https://i.blogs.es/f5190f/antes-del-apple-event-pedro-aznar-03/840_560.jpeg',
+      'publishedAt': '2023-09-10T09:33:21Z',
+      'content': 'Hay costuras que nos tejen de muchas formas. Unas, nos ayudan a cicatrizar cuando necesitamos recuperarnos de algo. Otras, son las que nos hacen más fuertes. Pero no todas pertenecen a los extremos, … [+4756 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'MakeUseOf'
+      },
+      'author': 'Christopher Close',
+      'title': 'How to Update Your Apple TV',
+      'description': 'It takes just a few clicks of the Siri Remote to keep your streaming box up-to-date.',
+      'url': 'https://www.makeuseof.com/how-to-update-apple-tv/',
+      'urlToImage': 'https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/apple-tv-4k-new-features.jpg',
+      'publishedAt': '2023-09-10T16:45:25Z',
+      'content': "With a plethora of available apps, speedy performance, and extensive integration with iOS devices, the Apple TV is simply the best streaming box for Apple users. To keep Apple's set-top box performin… [+1867 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'MakeUseOf'
+      },
+      'author': 'George Tinari',
+      'title': 'How to Create and Customize Contact Posters on Your iPhone',
+      'description': "With iOS 17, Apple lets you customize how your contacts show up on your iPhone when they call you. We'll show you how to do it.",
+      'url': 'https://www.makeuseof.com/how-to-use-contact-posters-on-iphone/',
+      'urlToImage': 'https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-wwdc-ios-17-contact-posters.jpg',
+      'publishedAt': '2023-09-10T10:15:27Z',
+      'content': "iOS 17 comes with an exciting new way to customize your iPhone contacts. Contact Posters allow you to personalize how your iPhone's screen looks when someone calls you.\r\nThere are tons of different p… [+4095 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'MakeUseOf'
+      },
+      'author': 'George Tinari',
+      'title': 'How to Use the Check In Feature With Friends and Family on Your iPhone',
+      'description': "Notify your friends and family when you arrive somewhere safely with the Check In feature in your iPhone's Messages app.",
+      'url': 'https://www.makeuseof.com/how-to-use-check-in-feature-on-iphone/',
+      'urlToImage': 'https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-location-search-share-maps.jpg',
+      'publishedAt': '2023-09-10T19:30:25Z',
+      'content': "Check In is a feature Apple introduced alongside iOS 17 that lets you automatically alert friends and family when you've arrived at your destination. It's super useful when you don't want to constant… [+3561 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Golem.de'
+      },
+      'author': 'Oliver Nickel',
+      'title': 'Legacy of the Monsters: Kurt Russell vs. Godzilla',
+      'description': 'Apple hat einen Teaser-Trailer zur kommenden Apple-TV+-Serie Monarch: Legacy of the Monsters veröffentlicht. Die Serie kommt im November. (Apple TV+, Apple TV)',
+      'url': 'https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Flegacy-of-the-monsters-kurt-russell-vs-godzilla-2309-177534.html&referer=https%3A%2F%2Ft.co%2F855821079f',
+      'urlToImage': None,
+      'publishedAt': '2023-09-10T11:17:02Z',
+      'content': 'Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Skinnytaste.com'
+      },
+      'author': 'Gina',
+      'title': '14 Healthy Cottage Cheese Recipes',
+      'description': 'These 14 healthy cottage cheese recipes are easy to make that are high in protein and are super good for you. Cottage Cheese Recipes Cottage cheese is an underrated ingredient. Most people don’t realize how delicious it is or how many ways you can use it in r…',
+      'url': 'https://www.skinnytaste.com/healthy-cottage-cheese-recipes/',
+      'urlToImage': 'https://www.skinnytaste.com/wp-content/uploads/2023/03/cottage-cheese-recipes.png',
+      'publishedAt': '2023-09-10T13:25:00Z',
+      'content': 'This post may contain affiliate links. Read my disclosure policy.\r\nThese 14 healthy cottage cheese recipes are easy to make that are high in protein and are super good for you. \r\nCottage Cheese Recip… [+3249 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Skinnytaste.com'
+      },
+      'author': 'Gina',
+      'title': 'Mini Pumpkin Chocolate Chip Muffins',
+      'description': 'Mini Pumpkin Chocolate Chip Muffins made lighter by swapping out butter for pumpkin puree – loaded with chocolate chips in every bite! Pumpkin Chocolate Chip Muffins Even if it’s still warm out, these mini pumpkin muffins will get you in the Fall spirit and t…',
+      'url': 'https://www.skinnytaste.com/skinny-mini-pumpkin-chocolate-chip/',
+      'urlToImage': 'https://www.skinnytaste.com/wp-content/uploads/2013/09/Mini-Pumpkin-Chocolate-Chip-Muffins-9.jpg',
+      'publishedAt': '2023-09-10T16:39:38Z',
+      'content': 'This post may contain affiliate links. Read my disclosure policy.\r\nMini Pumpkin Chocolate Chip Muffins made lighter by swapping out butter for pumpkin puree loaded with chocolate chips in every bite!… [+3767 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'The A.V. Club'
+      },
+      'author': 'Saloni Gajjar',
+      'title': "What's on TV this week—The Morning Show is back, and The Other Black Girl premieres",
+      'description': 'Welcome to What’s On, our weekly picks of must-watch shows. Here’s what you need to watch from Sunday, September 10 to Thursday, September 14. All times are Eastern. [Note: The weekend edition of What’s On drops on Fridays.]Read more...',
+      'url': 'https://www.avclub.com/whats-on-tv-sept-10-to-14-the-morning-show-season-3-1850809213',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0e15fa47f624a4855f5b705aac3fea98.png',
+      'publishedAt': '2023-09-10T13:00:00Z',
+      'content': 'Welcome to Whats On, our weekly picks of must-watch shows. Heres what you need to watch from Sunday, September 10 to Thursday, September 14. All times are Eastern. [Note: The weekend edition of Whats… [+3833 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Xataka Android'
+      },
+      'author': 'Eva Rodriguez',
+      'title': 'Cuando Google Fotos se hizo de pago busqué alternativas: esta solución es todavía mejor y no he tenido que pagar ni un euro más',
+      'description': 'Cuando hace dos años el Google Fotos ilimitado se hizo de pago, muchas personas buscamos alternativas para guardar nuestras fotografías y vídeos en la nube. Y la mejor solución la encontré donde menos lo esperaba y sin gastar más, aunque este punto tiene letr…',
+      'url': 'https://www.xatakandroid.com/aplicaciones-android/cuando-google-fotos-se-hizo-pago-busque-alternativas-esta-solucion-todavia-mejor-no-he-tenido-que-pagar-euro',
+      'urlToImage': 'https://i.blogs.es/d0aac9/fotos/840_560.jpeg',
+      'publishedAt': '2023-09-10T14:01:07Z',
+      'content': 'Cuando hace dos años el Google Fotos ilimitado se hizo de pago, muchas personas buscamos alternativas para guardar nuestras fotografías y vídeos en la nube. Y la mejor solución la encontré donde meno… [+4590 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Xataka Android'
+      },
+      'author': 'Pepu Ricca',
+      'title': 'Ni aunque me regalaran el iPhone: repetiré con el Google Pixel, éstos son mis motivos',
+      'description': 'A finales del año pasado, le llegó la hora a mi querido Poco F1. Después de casi cinco años rindiendo al máximo nivel, no encontraba ningún sustituto perfecto. Buscaba algo parecido en concepto, una gama alta a precio reducido, algo difícil en estos días que …',
+      'url': 'https://www.xatakandroid.com/moviles-android/me-regalaran-iphone-repetire-google-pixel-estos-mis-motivos',
+      'urlToImage': 'https://i.blogs.es/52912c/pixel/840_560.jpeg',
+      'publishedAt': '2023-09-10T08:01:00Z',
+      'content': 'A finales del año pasado, le llegó la hora a mi querido Poco F1. Después de casi cinco años rindiendo al máximo nivel, no encontraba ningún sustituto perfecto. Buscaba algo parecido en concepto, una … [+4332 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Presse-citron'
+      },
+      'author': 'RPB',
+      'title': 'Citron pressé : iPhone 15, nouveautés iOS 17, énergie de la pluie et Star Wars',
+      'description': 'Toutes les semaines, lisez Citron-pressé, le récap des actus le plus vitaminé du web\xa0!',
+      'url': 'https://www.presse-citron.net/citron-presse-iphone-15-nouveautes-ios-17-energie-de-la-pluie-et-star-wars/',
+      'urlToImage': 'https://www.presse-citron.net/app/uploads/2021/08/Citron-Presse.jpg',
+      'publishedAt': '2023-09-10T18:18:19Z',
+      'content': 'Au sommaire cette semaine\xa0: tout savoir sur l’iPhone 15 avant la très attendue keynote mardi 12 septembre, les 7 nouveautés qui arrivent avec iOS 17, mais aussi la Chine qui innove avec des panneaux … [+2708 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Williamlong.info'
+      },
+      'author': 'user@gmail.com (guest)',
+      'title': '华尔街大佬计划做空苹果',
+      'description': '近期，对冲基金Satori Fund创始人公开唱空苹果公司，并称要在美东时间9月12日苹果公司的iPhone 15秋季新品发布会前后做空苹果公司股票。而在苹果年度最重磅新品发布会之前，本周苹果累计下跌5.95%，市值蒸发1764亿美元(约合人民币1.30万亿元)。\n\n苹果公司将于下周举行发布会，推出iPhone 15系列手机。摩根大通周五发布报告称，即将发布的苹果iPhone 15并没有实质性的升级，因此也不会吸引大量用户更新换代。摩根大通将苹果目标股价从235美元调低至230美元。\n\n至于价格问题，摩根大通称：…',
+      'url': 'https://www.williamlong.info/archives/7284.html',
+      'urlToImage': None,
+      'publishedAt': '2023-09-10T14:32:57Z',
+      'content': 'Satori Fund912iPhone 155.95%1764(1.30)\r\niPhone 15iPhone 15235230\r\n“iPhoneiPhoneProPro”\r\n910Satori Fund·(Dan Niles)\r\niPhone 15912\r\nMate60 Pro\r\n820\r\n818iPhone 15\r\n8189%5.95%1764\r\n“‘’25%()”\r\niPhone15235… [+206 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Faz.net'
+      },
+      'author': 'Stephan Finsterbusch, Gustav Theile',
+      'title': 'Aus Handelskrieg wird Handykrieg',
+      'description': 'Peking bannt iPhones, Washington nimmt ein neues Huawei-Modell unter die Lupe. Der Konflikt zwischen den USA und China spitzt sich wieder bedenklich zu.',
+      'url': 'https://www.faz.net/aktuell/wirtschaft/unternehmen/china-gegen-usa-aus-handelskrieg-wird-handykrieg-19163660.html',
+      'urlToImage': 'https://media1.faz.net/ppmedia/aktuell/3673143678/1.9163691/facebook_teaser/auch-auf-deutschen.jpg',
+      'publishedAt': '2023-09-10T09:45:22Z',
+      'content': 'Um den neuesten geopolitischen Zankapfel hat sich mitten in Schanghai eine kleine Traube gebildet. Ein Dutzend Kunden stehen in dem Laden um den Tisch mit dem neuesten Smartphone und begutachten die … [+2929 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'iMore'
+      },
+      'author': 'Palash Volvoikar',
+      'title': 'Fake MagSafe battery packs get USB-C upgrade in preparation for iPhone 15',
+      'description': 'Fake MagSafe battery packs with USB-C have already started showing up as Apple plans to transition the iPhone 15 to USB-C.',
+      'url': 'https://www.imore.com/iphone/iphone-15/fake-magsafe-battery-packs-get-usb-c-upgrade-in-preparation-for-iphone-15',
+      'urlToImage': 'https://cdn.mos.cms.futurecdn.net/HfJP4X59usz4HJNHhDDR88-1200-80.jpg',
+      'publishedAt': '2023-09-10T19:53:51Z',
+      'content': 'Apple is set to finally transition the iPhone to USB-C from Lightning when the iPhone 15 launches on September 12. As we prepare for that change, the counterfeiters also seem to be preparing to rip o… [+1756 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'iMore'
+      },
+      'author': 'hello@callumbooth.net (Callum Booth)',
+      'title': 'Using Dynamic Island on iPhone 14 Pro a year on - a notch by any other name',
+      'description': 'Dynamic Island launched with the iPhone 14 Pro line, and after a year since its introduction, has the feature lived up to its hype?',
+      'url': 'https://www.imore.com/iphone/a-year-with-dynamic-island-on-iphone-14-pro-a-notch-by-any-other-name',
+      'urlToImage': 'https://cdn.mos.cms.futurecdn.net/Ggp8qRfNdtKdrcnEc5WiE7-1200-80.jpg',
+      'publishedAt': '2023-09-10T11:10:26Z',
+      'content': 'Dynamic Island is coming to an iPhone 15 near you\r\n. Well, that’s if the rumors are to be believed. These state\r\n that the feature — which is Apple’s animated notch replacement — will not just appear… [+5394 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Techdirt'
+      },
+      'author': 'Leigh Beadon',
+      'title': 'Funniest/Most Insightful Comments Of The Week At Techdirt',
+      'description': 'This week, both our top comments on the insightful side are about Elon Musk going to war with the ADL. In first place, it’s Thad with some thoughts about the situation: There are some legitimate criticisms of the ADL, as Mike points out. I tend to agree that …',
+      'url': 'https://www.techdirt.com/2023/09/10/funniest-most-insightful-comments-of-the-week-at-techdirt-76/',
+      'urlToImage': 'https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png',
+      'publishedAt': '2023-09-10T19:00:00Z',
+      'content': 'from the wordplay dept\r\nThis week, both our top comments on the insightful side are about Elon Musk going to war with the ADL. In first place, it’s Thad with some thoughts about the situation:\r\nThere… [+2564 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'MacRumors'
+      },
+      'author': 'Hartley Charlton',
+      'title': 'Counterfeiters Preparing for Launch of USB-C MagSafe Battery Pack',
+      'description': "Images of fake MagSafe Battery Packs with a USB-C charging port instead of Lightning are being shared on social media sites, potentially hinting at preparations to mirror Apple's release of such an accessory.\n\n\n\n\n\nThe current MagSafe Battery Pack is a widely …",
+      'url': 'https://www.macrumors.com/2023/09/10/counterfeiters-preparing-for-usb-c-magsafe-battery/',
+      'urlToImage': 'https://images.macrumors.com/t/z3jCQmsyVD88vedVBKGRPb1X7hE=/3200x/article-new/2023/09/magsafe-battery-pack-with-usb-c-port.jpg',
+      'publishedAt': '2023-09-10T18:39:16Z',
+      'content': "Images of fake MagSafe Battery Packs with a USB-C charging port instead of Lightning are being shared on social media sites, potentially hinting at preparations to mirror Apple's release of such an a… [+2317 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'MacRumors'
+      },
+      'author': 'Hartley Charlton',
+      'title': 'iPad Air 6 Rumored to Launch in October as Only iPad Refresh of 2023',
+      'description': 'The sixth-generation iPad Air should launch in October as the only iPad refresh of 2023, according to a plausible rumor shared on Chinese social media site Weibo.\n\n\n\n\n\n"Only the \u200ciPad Air\u200c series should be updated this year," the post reads, with a subsequent…',
+      'url': 'https://www.macrumors.com/2023/09/10/ipad-air-6-rumored-to-launch-in-october/',
+      'urlToImage': 'https://images.macrumors.com/t/gEezbdk3wb2cdTBNlvjNI-KS99c=/1600x/article-new/2022/03/ipad-air-5-colors.jpeg',
+      'publishedAt': '2023-09-10T08:57:02Z',
+      'content': 'The sixth-generation iPad Air should launch in October as the only iPad refresh of 2023, according to a plausible rumor shared on Chinese social media site Weibo.\r\n"Only the \u200ciPad Air\u200c series should … [+1575 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Les Numériques'
+      },
+      'author': 'Thibaud Gomès-Léal',
+      'title': "Actualité : Monarch\xa0: la série Godzilla d'Apple\xa0TV+ dévoile une bande-annonce titanesque",
+      'description': "La série Monarch: Legacy of Monsters, dérivée de l'univers des films Godzilla, vient de sortir sa première bande-annonce.",
+      'url': 'https://www.lesnumeriques.com/serie/monarch-la-serie-godzilla-d-apple-tv-devoile-une-bande-annonce-titanesque-n213043.html',
+      'urlToImage': 'https://cdn.lesnumeriques.com/optim/news/21/213043/90fa7608-monarch-la-serie-godzilla-d-apple-tv-devoile-un-trailer-rugissant_png__1200_630__0-20-1816-973.jpg',
+      'publishedAt': '2023-09-10T09:44:00Z',
+      'content': 'La série Monarch: Legacy of Monsters arrive le 17 novembre 2023.\r\n© Apple TV+\r\nVous cherchez des noises de Kaïju\xa0? Apple\xa0TV+ vient de dévoiler la première bande-annonce de sa série Monarch: Legacy of… [+2244 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Xatakamovil.com'
+      },
+      'author': 'Alejandro Alcolea',
+      'title': 'Apple, Google y Netflix son los bárbaros a las puertas de la industria del videojuego. No fueron los primeros',
+      'description': 'Entrar en el apasionante mundo de los videojuegos nunca había sido tan sencillo. Sencillo y, además, económico. Sí, tenemos unas PS5 y una Xbox Series X bastante caras, por no hablar de lo que cuesta montar un PC para mover juegos recién sacados del horno con…',
+      'url': 'https://www.xatakamovil.com/apple/apple-google-netflix-barbaros-a-puertas-industria-videojuego-no-fueron-primeros',
+      'urlToImage': 'https://i.blogs.es/ecb285/analisis-oppo-reno-10-pro-44/840_560.jpeg',
+      'publishedAt': '2023-09-10T08:01:00Z',
+      'content': 'Entrar en el apasionante mundo de los videojuegos nunca había sido tan sencillo. Sencillo y, además, económico. Sí, tenemos unas PS5 y una Xbox Series X bastante caras, por no hablar de lo que cuesta… [+11998 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Xatakamovil.com'
+      },
+      'author': 'Eva Rodriguez',
+      'title': 'Cinco ajustes de seguridad que configuro inmediatamente después de cambiar de móvil',
+      'description': 'El procedimiento normalmente suele ser el siguiente: saco el móvil de la caja, le meto mi tarjeta SIM y lo enciendo. En unas pocas pantallas he añadido mi cuenta de usuaria, un Wi-Fi y he introducido un pin (que sea robusto y mejor que no sea el básico de cua…',
+      'url': 'https://www.xatakamovil.com/seguridad/cinco-ajustes-seguridad-que-configuro-inmediatamente-despues-cambiar-movil',
+      'urlToImage': 'https://i.blogs.es/63f6da/smartmockups_lm8v5twd/840_560.jpeg',
+      'publishedAt': '2023-09-10T14:01:07Z',
+      'content': 'El procedimiento normalmente suele ser el siguiente: saco el móvil de la caja, le meto mi tarjeta SIM y lo enciendo. En unas pocas pantallas he añadido mi cuenta de usuaria, un Wi-Fi y he introducido… [+6123 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Caschys Blog'
+      },
+      'author': 'Felix Frank',
+      'title': 'homee: Mit dem neuen Update wird die modulare Zentrale zur Matter-Bridge',
+      'description': 'In den letzten Monaten war es eher ruhig um die modulare Smart-Home-Zentrale homee. Das allgemeine Entwicklungstempo scheint sich inzwischen nicht mehr auf einem so hohen Niveau zu befinden, wie anfangs. Umso überraschender daher das homee-Update auf Version …',
+      'url': 'https://stadt-bremerhaven.de/homee-mit-dem-neuen-update-wird-die-modulare-zentrale-zur-matter-bridge/',
+      'urlToImage': 'https://stadt-bremerhaven.de/wp-content/uploads/2018/01/homee.jpg',
+      'publishedAt': '2023-09-10T06:30:48Z',
+      'content': 'In den letzten Monaten war es eher ruhig um die modulare Smart-Home-Zentrale homee. Das allgemeine Entwicklungstempo scheint sich inzwischen nicht mehr auf einem so hohen Niveau zu befinden, wie anfa… [+4535 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Caschys Blog'
+      },
+      'author': 'André Westphal',
+      'title': 'Jabra Elite 10 im Test: TWS-Kopfhörer mit Dolby Atmos',
+      'description': 'Olli hat bereits letzte Woche die Jabra Elite 8 Active getestet. Diese wurden zeitgleich mit dem Modell Jabra Elite 10 vorgestellt. Letztere konnte ich mir nun über mehrere Wochen für euch genauer anhören. Zuletzt hatte mich Jabra da mit seinem...Zum Beitrag:…',
+      'url': 'https://stadt-bremerhaven.de/jabra-elite-10-im-test-tws-kopfhoerer-mit-dolby-atmos/',
+      'urlToImage': 'https://stadt-bremerhaven.de/wp-content/uploads/2023/09/Jabra-Elite-10-2.jpg',
+      'publishedAt': '2023-09-10T18:00:27Z',
+      'content': 'Olli hat bereits letzte Woche die Jabra Elite 8 Active getestet. Diese wurden zeitgleich mit dem Modell Jabra Elite 10 vorgestellt. Letztere konnte ich mir nun über mehrere Wochen für euch genauer an… [+9865 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'IndieWire'
+      },
+      'author': 'Ben Travers',
+      'title': '‘All the Light We Cannot See’ Review: Shawn Levy’s Schmaltzy Netflix Adaptation Misses the Mark',
+      'description': "Under-developed and over-simplified, the four-part limited series is a flat, conventional take on Anthony Doerr's Pulitzer Prize-winning novel.",
+      'url': 'https://www.indiewire.com/criticism/shows/all-the-light-we-cannot-see-review-netflix-series-1234903328/',
+      'urlToImage': 'https://www.indiewire.com/wp-content/uploads/2023/09/All-the-Light-We-Cannot-See-Netflix-series-Marie-actress-Aria-Mia-Loberti.jpg',
+      'publishedAt': '2023-09-10T18:15:00Z',
+      'content': 'During one of the many flashbacks in “All the Light We Cannot See,” Marie-Laure (Aria Mia Loberti) sits with her great-uncle, Etienne (Hugh Laurie), as the aging Frenchman casts a line into the Engli… [+8002 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Srad.jp'
+      },
+      'author': 'headless',
+      'title': 'AppleはiPhoneの新充電端子をどのように紹介するのか',
+      'description': 'Apple は EU 指令に従うしかなくなって次期 iPhoneで充電端子を USB Type-C に置き換えるとみられるが、発表会で EU の影響に触れることは決してないとの見方もあるようだ\n(Android Police の記事)。\n\nApple は他社製品が既に搭載している機能でも同社製品に搭載する際は世界初の新機能であるかのように発表し、ユーザーが戸惑うような変更を導入する際は素晴らしいイノベーションを皆にもたらすかのように発表してきた。iPhone 4 で受信状態が悪くなる問題が発生した際、故スティーブ…',
+      'url': 'https://apple.srad.jp/story/23/09/10/0417239/',
+      'urlToImage': 'https://srad.jp/static/topics/iphone_64.png',
+      'publishedAt': '2023-09-10T04:45:00Z',
+      'content': '17221664story by headless\r\n20230910 1345\r\nApple EU iPhone USB Type-C EU \r\n(Android Police )Apple iPhone 4 \r\nUSB Type-C iPhone 13 \r\ndescriptive\r\ntypodupeerror\r\n-- \r\nTrademarks property of their respec… [+77 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Srad.jp'
+      },
+      'author': 'headless',
+      'title': '知的財産の侵害に利用可能なデバイスはすべて違法とすべきか',
+      'description': 'オーディオビジュアルコンテンツの著作権保護に取り組む業界団体 Audiovisual Anti-Piracy Alliance (AAPA)\n では、知的財産侵害に利用可能なすべてのデバイスを違法化したいと考えているそうだ\n(TorrentFreak の記事、\nIBC の記事)。\n\nこの見解は AAPA エグゼクティブ VP の Sheila Cassells 氏が IBC のインタビューに答えたものだ。質問は違法ストリーミングデバイス (ISD) やアプリなど、海賊版コンテンツの視聴を目的とした製品に対する考え…',
+      'url': 'https://yro.srad.jp/story/23/09/10/110234/',
+      'urlToImage': 'https://srad.jp/static/topics/piracy_64.png',
+      'publishedAt': '2023-09-10T11:21:00Z',
+      'content': 'Audiovisual Anti-Piracy Alliance (AAPA)\r\n(TorrentFreak IBC )AAPA VP Sheila Cassells IBC (ISD) Cassells Fire Stick \r\nCassells TorrentFreak'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Touchlab.jp'
+      },
+      'author': 'Nakimo',
+      'title': '【24%OFF】充電器はこれ一つ「Anker PowerPort III 3-Port 65W Pod」がタイムセール中',
+      'description': 'Amazonのタイムセールで、急速充電器「Anker PowerPort III 3-Port 65W Pod」が24%OFFで販売されています。 この充電器の主な特徴は次のとおり： USB-C x 2/ USB-A x […]\nThe post 【24%OFF】充電器はこれ一つ「Anker PowerPort III 3-Port 65W Pod」がタイムセール中 first appeared on Touch Lab - タッチ ラボ.©2019 "Touch Lab - タッチ ラボ".',
+      'url': 'https://touchlab.jp/2023/09/anker_powerportiii_3port65wpod_2023sept11/',
+      'urlToImage': 'https://touchlab.jp/wp-content/uploads/2023/06/anker_powerportiii_3port65wpod_24bw.jpg',
+      'publishedAt': '2023-09-10T22:11:24Z',
+      'content': 'Amazonのタイムセールで、急速充電器「Anker PowerPort III 3-Port 65W Pod」が24%OFFで販売されています。\nこの充電器の主な特徴は次のとおり：\n<ul>\n<li>USB-C x 2/ USB-A x 1</li>\n<li>USB-C PD 最大65W</li>\n<li>3台同時充電</li>\n<li>折り畳み式プラグ</li>\n<li>窒化ガリウム採用</… [+774 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Quartz India'
+      },
+      'author': 'The Associated Press',
+      'title': "What to stream this week: 'Barbie,' Dan & Shay, 'The Morning Show' and 'Welcome to Wrexham'",
+      'description': 'Tunes from Dan & Shay and Vic Mensa plus a genre-blending Hulu series “The Other Black Girl” set inside the world of publishing are some of the new television, movies, music and games headed to a device near youRead more...',
+      'url': 'https://qz.com/what-to-stream-this-week-barbie-dan-shay-the-morni-1850823273',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f996ae220ebb686069ea860932609397.jpg',
+      'publishedAt': '2023-09-10T16:01:39Z',
+      'content': 'Tunes from Dan &amp; Shay and Vic Mensa plus a genre-blending Hulu series The Other Black Girl set inside the world of publishing are some of the new television, movies, music and games headed to a d… [+6894 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'GSMArena.com'
+      },
+      'author': 'Sagar',
+      'title': 'Apple Watch Series 9 and Watch Ultra 2 to get new heart rate sensor, U2 chip',
+      'description': 'Apple will unveil the Watch Series 9 and Watch Ultra 2 at its September 12 "Wonderlust" event. Both smartwatches are said to look similar to their predecessors, but Bloomberg claims these watches will use a new version of Apple\'s optical heart rate sensor ins…',
+      'url': 'https://www.gsmarena.com/apple_watch_series_9_watch_ultra_2_new_heart_rate_sensor_u2_chip-news-59846.php',
+      'urlToImage': 'https://fdn.gsmarena.com/imgroot/news/23/09/apple-watch-series-9-watch-ultra-2-new-hrm-u2-chip/-952x498w6/gsmarena_001.jpg',
+      'publishedAt': '2023-09-10T15:17:01Z',
+      'content': 'Apple will unveil the Watch Series 9 and Watch Ultra 2 at its September 12 "Wonderlust" event. Both smartwatches are said to look similar to their predecessors, but Bloomberg claims these watches wil… [+1445 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'GSMArena.com'
+      },
+      'author': 'Peter',
+      'title': 'Weekly deals: the best smartphone deals from the US, UK, Germany and India',
+      'description': 'Next week Apple will unveil the next generation of iPhones, but this week things are relatively quiet. Still, we’re getting closer to the end of 2023, so makers and retailers are starting to think about old inventory and what can be done about it. We also fou…',
+      'url': 'https://www.gsmarena.com/weekly_deals_the_best_smartphone_deals_from_the_us_uk_germany_and_india-news-59836.php',
+      'urlToImage': 'https://fdn.gsmarena.com/imgroot/news/23/09/weekly-deals-8/-952x498w6/gsmarena_000.jpg',
+      'publishedAt': '2023-09-10T10:05:01Z',
+      'content': 'Next week Apple will unveil the next generation of iPhones, but this week things are relatively quiet. Still, were getting closer to the end of 2023, so makers and retailers are starting to think abo… [+12646 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'GSMArena.com'
+      },
+      'author': 'Peter',
+      'title': 'Weekly poll: will you use the Fairphone 5 for the next 8 years?',
+      'description': 'Apple has a reputation of having the best software support in the smartphone world, but when iOS 16 arrived in 2022, it was only for phones from 2017 and onward – 2016’s iPhone 7 and iPhone SE were dropped. That’s better than Android makers, which only do OS …',
+      'url': 'https://www.gsmarena.com/weekly_poll_will_you_use_the_fairphone_5_for_the_next_8_years-news-59821.php',
+      'urlToImage': 'https://fdn.gsmarena.com/imgroot/news/23/09/weekly-poll-fairphone-5/-952x498w6/gsmarena_000.jpg',
+      'publishedAt': '2023-09-10T13:13:01Z',
+      'content': 'Apple has a reputation of having the best software support in the smartphone world, but when iOS 16 arrived in 2022, it was only for phones from 2017 and onward 2016s iPhone 7 and iPhone SE were drop… [+3839 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'GSMArena.com'
+      },
+      'author': 'Michail',
+      'title': 'Sony WF-1000XM5 review',
+      'description': 'Introduction\n\n“It’s a Sony” - that was the Sony Corporation tagline back in the day and it may be coming back as the success of its flagship Wireless Headphones (WH) and Wireless Free (WF) ranges made them the gold standard for Bluetooth headphones with activ…',
+      'url': 'https://www.gsmarena.com/sony_wf1000xm5_review-news-59837.php',
+      'urlToImage': 'https://fdn.gsmarena.com/imgroot/news/23/09/sony-wf-1000-xm5-review/-952x498w6/gsmarena_000.jpg',
+      'publishedAt': '2023-09-10T17:47:01Z',
+      'content': 'Introduction\r\nIts a Sony - that was the Sony Corporation tagline back in the day and it may be coming back as the success of its flagship Wireless Headphones (WH) and Wireless Free (WF) ranges made t… [+10328 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': '01net.com'
+      },
+      'author': 'Mickael Bazoge',
+      'title': 'Apple\xa0: une keynote et puis c’est tout',
+      'description': "Alors que tous les yeux sont braqués sur le 12 septembre, jour de la keynote de rentrée pour Apple, il semble que le constructeur n'organisera pas de deuxième événement d'ici la fin de l'année.",
+      'url': 'https://www.01net.com/actualites/apple-une-keynote-et-puis-cest-tout.html',
+      'urlToImage': 'https://www.01net.com/app/uploads/2022/03/3386-mea_1256.jpg',
+      'publishedAt': '2023-09-10T16:02:46Z',
+      'content': 'Alors que tous les yeux sont braqués sur le 12 septembre, jour de la keynote de rentrée pour Apple, il semble que le constructeur n’organisera pas de deuxième événement d’ici la fin de l’année.Il arr… [+1588 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Thedailyupside.com'
+      },
+      'author': 'newsfeedback@fool.com (Griffin Kelly from The Daily Upside)',
+      'title': 'The West is Touting a New Trade Route That Bypasses China',
+      'description': 'Think of them as suspenders, not belts. At the G20 summit in New Delhi this past weekend, global leaders voiced their support for a new ship, rail, and digital corridor that will connect India to the Middle East and Europe...',
+      'url': 'https://www.thedailyupside.com/the-west-is-touting-a-new-trade-route-that-bypasses-china/',
+      'urlToImage': 'https://www.thedailyupside.com/wp-content/uploads/2023/09/september-11-2023-1.jpeg',
+      'publishedAt': '2023-09-10T22:00:14Z',
+      'content': 'Think of them as suspenders, not belts.\r\nAt the G20 summit in New Delhi this past weekend, global leaders voiced their support for a new ship, rail, and digital corridor that will connect India to th… [+2416 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Deadline'
+      },
+      'author': 'Denise Petski',
+      'title': '‘Haunted Mansion’ Gets Release Date At Disney+',
+      'description': 'Haunted Mansion, Disney’s hit film inspired by the famed theme park ride, will begin streaming on Disney+ on October 4. Disney made the announcement today at Destination D23 in Orlando. The feature take on the classic theme park attraction, directed by Justin…',
+      'url': 'https://deadline.com/2023/09/haunted-mansion-release-date-disney-plus-1235542347/',
+      'urlToImage': 'https://deadline.com/wp-content/uploads/2023/09/haunted-mansion-2023-1.jpg?w=1024',
+      'publishedAt': '2023-09-10T15:18:43Z',
+      'content': 'Haunted Mansion, Disney’s hit film inspired by the famed theme park ride, will begin streaming on Disney+ on October 4. Disney made the announcement today at Destination D23 in Orlando.\r\nThe feature … [+719 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'La Vanguardia'
+      },
+      'author': 'Fran Besora',
+      'title': 'Todo lo que esperamos ver en la Keynote de Apple del 12 de septiembre',
+      'description': 'El próximo 12 de septiembre, Apple celebrará un evento en el que nos presentará todo en lo que ha estado trabajando durante este año. Hemos tenido una cantidad de rumores tan grande, que podemos hacernos una clara idea de todo lo que presentaría la compañía d…',
+      'url': 'https://www.lavanguardia.com/andro4all/apple/todo-lo-que-esperamos-ver-en-la-keynote-de-apple-del-12-de-septiembre',
+      'urlToImage': 'https://www.lavanguardia.com/andro4all/hero/2023/09/que-veremos-evento-apple.jpg?width=1200',
+      'publishedAt': '2023-09-10T14:01:24Z',
+      'content': '¿Qué presentará Apple el próximo 12 de septiembre?\r\nEl próximo 12 de septiembre, Apple celebrará un evento en el que nos presentará todo en lo que ha estado trabajando durante este año. Hemos tenido … [+4890 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'La Vanguardia'
+      },
+      'author': 'Damián García',
+      'title': 'Cuánto costarán los iPhone 15: esto es lo que dicen los analistas',
+      'description': 'En pocas horas conoceremos oficialmente a los iPhone 15 de Apple y resolveremos todas las dudas, pero mientras esperamos lo cierto es que hasta prácticamente la apertura de puertas en el Apple Park de Cupertino vamos a estar desgranando detalles filtrados de …',
+      'url': 'https://www.lavanguardia.com/andro4all/apple/cuanto-costaran-los-iphone-15-esto-es-lo-que-dicen-los-analistas',
+      'urlToImage': 'https://www.lavanguardia.com/andro4all/hero/2023/09/iphone-15-portada.1694153098.1026.jpg?width=1200',
+      'publishedAt': '2023-09-10T22:01:19Z',
+      'content': 'Imagen promocional de los iPhone 15 de Apple, filtrada en los últimos días.\r\nEn pocas horas conoceremos oficialmente a los iPhone 15 de Apple y resolveremos todas las dudas, pero mientras esperamos l… [+2849 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'La Vanguardia'
+      },
+      'author': 'JuanMi Guirado',
+      'title': 'Te recomiendo esta tablet de 10 pulgadas, actualizada y potente como ella sola',
+      'description': '¿Necesitas un tablet para consultar y redactar correos, ver una serie o navegar con una pantalla mucho mayor que la de tu móvil? Pues uno de los mejores modelos que hay a la venta ahora mismo tiene un gran descuento y nosotros la recomendados encarecidamente.…',
+      'url': 'https://www.lavanguardia.com/andro4all/ofertas/te-recomiendo-esta-tablet-de-10-pulgadas-actualizada-y-potente-como-ella-sola',
+      'urlToImage': 'https://www.lavanguardia.com/andro4all/hero/2023/09/ipad-2021.1694167539.2401.jpg?width=1200',
+      'publishedAt': '2023-09-10T16:01:43Z',
+      'content': 'El iPad de 2021 sigue siendo, dos años después, una tablet súper recomendada por su batería, pantalla y actualizaciones.\r\n¿Necesitas un tablet para consultar y redactar correos, ver una serie o naveg… [+3385 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'La Vanguardia'
+      },
+      'author': 'JuanMi Guirado',
+      'title': 'Las mejores bombillas inteligentes: controla tus luces y crea ambiente',
+      'description': 'La iluminación inteligente en el hogar ha revolucionado la forma en que experimentamos y gestionamos la luz en nuestros espacios personales. En una era en la que la tecnología se ha infiltrado en prácticamente todos los aspectos de nuestras vidas, la iluminac…',
+      'url': 'https://www.lavanguardia.com/andro4all/compras/bombillas-inteligentes',
+      'urlToImage': 'https://www.lavanguardia.com/andro4all/hero/2021/04/bombilla-wifi-encendida.jpg?width=1200',
+      'publishedAt': '2023-09-10T17:02:26Z',
+      'content': 'Las bombillas inteligentes pueden cambiar tanto el aspecto de tu casa como rebajar tu factura de la luz.\r\nLa iluminación inteligente en el hogar ha revolucionado la forma en que experimentamos y gest… [+15087 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Clubic'
+      },
+      'author': 'Nathan Le Gohlisse',
+      'title': 'Apple met la main sur BIS Record pour enrichir son offre de musique classique',
+      'description': "Apple continue de s'attacher les services d'experts en musique classique avec l'acquisition de BIS Record. Après 50 ans d'existence (et d'indépendance), le label suédois incorpore donc Apple Music Classical.",
+      'url': 'https://www.clubic.com/pro/entreprises/apple/actualite-484045-apple-met-la-main-sur-bis-record-pour-enrichir-son-offre-de-musique-classique.html',
+      'urlToImage': 'https://pic.clubic.com/v1/images/2008776/raw',
+      'publishedAt': '2023-09-10T18:58:00Z',
+      'content': "À l'inverse, Robert von Bahr, fondateur de BIS Record, s'est pour sa part félicité de ce changement de pavillon. « BIS sera intégré à Apple Music Classical et Platoon [une application d'Apple destiné… [+397 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Clubic'
+      },
+      'author': 'Nathan Le Gohlisse',
+      'title': 'iPhone 15 : Google troll déjà sacrément Apple dans une pub humoristique',
+      'description': 'Dans le cadre de sa campagne publicitaire « BestPhonesForever », Google en remet une couche contre Apple et son futur iPhone 15… quelques jours à peine avant son annonce.',
+      'url': 'https://www.clubic.com/pro/entreprises/apple/actualite-484057-iphone-15-google-troll-deja-sacrement-apple-dans-une-pub-humoristique.html',
+      'urlToImage': 'https://pic.clubic.com/v1/images/2140018/raw',
+      'publishedAt': '2023-09-10T19:42:00Z',
+      'content': "Dans le cadre de sa campagne publicitaire « BestPhonesForever », Google en remet une couche contre Apple et son futur iPhone 15 quelques jours à peine avant son annonce.\r\nPour une fois, ce n'est pas … [+787 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Appbank.net'
+      },
+      'author': 'テクノロジー記事班',
+      'title': 'ジョブズの失敗作がAppleを〝最強のブランド〟に変えたワケ',
+      'description': 'Appleは今、世界を代表するテック企業の1つであり、他にはない高いブランド力を誇ることで有名です。Appleが最初に世界を驚かせたのは、グラフィカル・ユーザー・インターフェースとマウスを備えた「Macintosh」。こ […]',
+      'url': 'https://www.appbank.net/2023/09/10/technology/2552173.php',
+      'urlToImage': 'https://www.appbank.net/wp-content/uploads/2023/09/2023-0908-img-1-1.jpeg',
+      'publishedAt': '2023-09-10T02:48:06Z',
+      'content': 'Apple1AppleMacintosh\r\nMacintoshAppleMacintoshAppleAppleYouTubeThe Verge\r\n*Category:\r\n Technology *SourceThe Verge,wikipedia,Apple\r\nMacintoshLisa\r\n1984Macintosh1AppleLisa\r\nApple2Lisa\r\n1970\r\nApple\r\nApp… [+189 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Appbank.net'
+      },
+      'author': '岩佐',
+      'title': '「iPhone 15」を買う前に…次世代「iPhone 16」を徹底予測！',
+      'description': '発売が近づく「iPhone 15」では、USB-Cポートの搭載など、様々なアップグレードが行われる予定です。しかし、このモデルの購入を決める前に、来年登場するモデルがどうなるのかも気になるところ。「iPhone 16」に […]',
+      'url': 'https://www.appbank.net/2023/09/11/technology/2553389.php',
+      'urlToImage': 'https://www.appbank.net/wp-content/uploads/2023/09/2023-0904-iPhone-15-thumb-1-2.jpeg',
+      'publishedAt': '2023-09-10T21:48:56Z',
+      'content': 'iPhone 15USB-CiPhone 16AppleMacRumors\r\n*Category:\r\n Technology *SourceMacRumors ,9to5Mac\r\n2024iPhone 16\r\niPhone 16iPhone 15 ProA17 Bionic\r\n<ul><li>iPhone 12</li><li>3nmA17 Bionic</li><li>Apple</li></… [+192 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Googlewatchblog.de'
+      },
+      'author': 'Jens',
+      'title': 'Pixel-Smartphones: Endlich längere Updates? Google kann (und muss) die Tensor-Stärke jetzt voll ausspielen',
+      'description': 'Google hat sich mit dem Tensor-SoC die Voraussetzungen geschaffen, um sehr lange Android-Updates zu ermöglichen.Pixel-Smartphones: Endlich längere Updates? Google kann (und muss) die Tensor-Stärke jetzt voll ausspielenKeine Google-News mehr verpassen: GoogleW…',
+      'url': 'https://www.googlewatchblog.de/2023/09/pixel-smartphones-endlich-updates/',
+      'urlToImage': 'https://www.googlewatchblog.de/wp-content/uploads/google-chip.jpg',
+      'publishedAt': '2023-09-10T07:00:38Z',
+      'content': 'Glaubt man der Gerüchteküche, wird Google schon sehr bald eine Update-Revolution für die Pixel-Smartphones verkünden, die die garantierte Update-Dauer nahezu verdoppeln soll. Ein solcher Schritt würd… [+4383 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Nextpit.de'
+      },
+      'author': 'Jade Bryan',
+      'title': 'Apple Watch 9 und Watch Ultra 2 mit verbesserter Herzfrequenzmessung',
+      'description': 'Die Apple Watch 9 und Watch Ultra 2 dürften mit einem neuen Herzfrequenzsensor und einem U2-UWB-Chipsatz zur Standortbestimmung ausgestattet sein.',
+      'url': 'https://www.nextpit.de/apple-watch-9-und-watch-ultra-2-mit-verbesserter-herzfrequenzmessung',
+      'urlToImage': 'https://fscl01.fonpit.de/userfiles/7446224/image/apple-watch-ultra/NextPit-apple-watch-ultra-sensors.jpg',
+      'publishedAt': '2023-09-10T06:00:01Z',
+      'content': '© nextpit\r\nEs wird erwartet, dass die Apple Watch 9 und Watch Ultra 2 am 12. September zusammen mit dem iPhone 15 vorgestellt werden. Vor dem Event gibt es nur wenige Details zu den Smartwatches. Glü… [+3512 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Nextpit.de'
+      },
+      'author': 'Matthias "MaTT" Zellmer',
+      'title': 'Google Pixel Watch 2: Mountain View schickt Leaker in die Wüste!',
+      'description': 'Google scheint ein effektives Mittel gegen frühzeitige Leaks gefunden zu haben: Man leakt wie das folgende Video der Google Pixel Watch 2 einfach selbst!',
+      'url': 'https://www.nextpit.de/google-pixel-watch-2-im-video-vorgestellt',
+      'urlToImage': 'https://fscl01.fonpit.de/userfiles/7233673/image/google-pixel-watch-2/google-pixel-watch-2_00.jpg',
+      'publishedAt': '2023-09-10T18:00:00Z',
+      'content': '© Google | edit by nextpit\r\nKommende Woche wird Apple am Dienstag das iPhone 15 und die Apple Watch 9 präsentieren. Wenige Tage später wird uns Google am 4. Oktober das Google Pixel 8, Pixel 8 Pro un… [+3489 chars]'
+    },
+    {
+      'source': {
+        'id': 'el-mundo',
+        'name': 'El Mundo'
+      },
+      'author': 'JAVIER ATTARD, AURORA MOLINA',
+      'title': '50 años del golpe en Chile: de la obsesión por el peligro comunista a la dictadura "feroz" de Pinochet',
+      'description': '¿Cómo está Chile hoy? ¿En qué contexto se produjo el golpe? ¿Quién era Pinochet? ¿Y Allende? ¿Qué ocurrió en el palacio de La Moneda? ¿Murió en combate o se suicidó?...',
+      'url': 'https://www.elmundo.es/podcasts/el-mundo-al-dia/2023/09/11/64fb403021efa0d23c8b45a9.html',
+      'urlToImage': 'https://phantom-elmundo.unidadeditorial.es/05b96fbe2d8cef9dee5d1d06919ed5c7/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/08/16941870646316.jpg',
+      'publishedAt': '2023-09-10T22:13:25Z',
+      'content': '¿Cómo está Chile hoy? ¿En qué contexto se produjo el golpe? ¿Quién era Pinochet? ¿Y Allende? ¿Qué ocurrió en el palacio de La Moneda? ¿Murió en combate o se suicidó? ¿Qué vino después en el país? ¿Có… [+463 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'DIE WELT'
+      },
+      'author': 'WELT',
+      'title': 'Freiburger Grundschulen und Kitas bieten nur noch vegetarisches Einheitsmenü an',
+      'description': 'Freiburg streicht Kitakindern und Grundschülern Fisch und Fleisch vom Speiseplan: Vor einem Jahr diskutierte Deutschland über diesen Beschluss des Gemeinderats. Zum Start des Schuljahres wird der am Montag umgesetzt – mit einem vegetarischen Einheitsmenü.',
+      'url': 'https://www.welt.de/politik/deutschland/article247387018/Freiburg-serviert-Grundschuelern-nur-noch-vegetarisches-Einheitsmenue.html',
+      'urlToImage': 'https://img.welt.de/img/politik/deutschland/mobile247387042/2721359947-ci16x9-w1200/Vegetarisches-Schulessen.jpg',
+      'publishedAt': '2023-09-10T04:06:15Z',
+      'content': 'Zum Start des neuen Schuljahrs am Montag müssen sich viele Kinder in Freiburg auf neue Speisepläne einstellen. In städtischen Grundschulen und auch in Kitas gibt es nur noch ein vegetarisches Einheit… [+2100 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'DIE WELT'
+      },
+      'author': 'Florian Stark',
+      'title': '„Sie wurden völlig willenlos, wie Ware, in Boote verfrachtet“',
+      'description': 'Weil die Royal Navy im 19. Jahrhundert Sklavenhändler jagte und aufbrachte, gelangten Zehntausende Afrikaner auf die Atlantikinsel St. Helena. DNA-Studien lassen auf ihre Heimatregionen schließen. Auch zeigt sich, wie die Schmuggler reagierten.',
+      'url': 'https://www.welt.de/geschichte/article247369430/Sklavenhandel-Sie-wurden-willenlos-wie-Ware-in-Boote-verfrachtet.html',
+      'urlToImage': 'https://img.welt.de/img/geschichte/mobile247369424/0181355517-ci16x9-w1200/St-Helena-drawn-around-1750-Credit-Ma.jpg',
+      'publishedAt': '2023-09-10T10:00:44Z',
+      'content': 'Das ist kein schöner Ort. Ich wäre besser in Ägypten geblieben, soll Napoleon Bonaparte die entlegene Insel im Südatlantik beschrieben haben, die ihm die Briten nach der verlorenen Schlacht bei Water… [+6496 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Tomshw.it'
+      },
+      'author': 'Andrea Maiellano',
+      'title': 'iPhone 15, e 15 Pro, svelati prima dell’evento, ecco cosa cambierà',
+      'description': "Mark gruman di Bloomberg ha praticamente anticipato tutto quello che verrà presentato all'evento Apple del 12 settembre prossimo.",
+      'url': 'https://www.tomshw.it/smartphone/iphone-15-e-15-pro-svelati-prima-dellevento-ecco-cosa-cambiera/',
+      'urlToImage': 'https://www.tomshw.it/images/images/2023/08/evento-apple-wonderlust-287300.jpg',
+      'publishedAt': '2023-09-10T09:30:18Z',
+      'content': "News iPhone 15, e 15 Pro, svelati prima dell’evento, ecco cosa cambierà\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scopr… [+3849 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Tomshw.it'
+      },
+      'author': 'Andrea Maiellano',
+      'title': 'Apple watch 9 e Ultra 2 non sono da dare per scontati',
+      'description': "Un report di Bloomberg anticipa quasi tutte le novità che verranno presentate all'evento del 12 settembre, cominciando dai nuovi Apple Watch",
+      'url': 'https://www.tomshw.it/smartphone/apple-watch-9-e-ultra-2-non-sono-da-dare-per-scontati/',
+      'urlToImage': 'https://www.tomshw.it/images/images/2023/03/apple-watch-series-8-270115.jpg',
+      'publishedAt': '2023-09-10T08:30:24Z',
+      'content': "News Apple watch 9 e Ultra 2 non sono da dare per scontati\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scopri di più\r\nNew… [+2227 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Fstoppers'
+      },
+      'author': 'Illya Ovchar',
+      'title': "The 5 Best Gear Purchases I've Made",
+      'description': "After delving into some of the regrettable gear choices I've made, it's time to shift the focus to the gear that has truly excelled in my toolkit. In this article, I'll share the equipment that brings me joy whenever I use it. Be it a camera, or a light stand…",
+      'url': 'https://fstoppers.com/gear/5-best-gear-purchases-ive-made-639343',
+      'urlToImage': 'https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/08/canon-sl3-250d_4a6a0387.jpg',
+      'publishedAt': '2023-09-10T21:03:01Z',
+      'content': "After delving into some of the regrettable gear choices I've made, it's time to shift the focus to the gear that has truly excelled in my toolkit. In this article, I'll share the equipment that bring… [+6124 chars]"
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Techbang.com'
+      },
+      'author': 'KKJ',
+      'title': 'Pixel 8 Pro 更多資訊外洩：溫度感測器、升級版長焦鏡頭，官方索性直接公布外觀不藏了',
+      'description': 'Pixel 8 Pro更多資訊洩露：三種顏色、溫度感測器、升級版長焦鏡頭等\nPixel 8 和 Pixel 8 Pro 將於今年 10 月正式發表，但在 Google 的 Pixel 模擬器網站上，該公司意外洩露了這款頂級旗艦的設計。雖然這些內容已經遭到刪除，但大量資訊已經被流傳到網路上了。\r\n\n\n\n消息稱，Pixel 8 Pro 將提供黑色、陶瓷特和天空藍三種顏色。洩漏的資訊還不止這些，因為 Pixel 模擬器網站還重點介紹了這款旗艦機的功能和規格，包括靠近後置鏡頭陣列的體溫感測器，還將配備 SIM 卡托盤，這…',
+      'url': 'https://www.techbang.com/posts/109455-more-information-leaked-from-the-pixel-8-pro-three-colors',
+      'urlToImage': 'https://cdn1.techbang.com/system/excerpt_images/109455/original/3916475c63c80557a534402efcef33f7.jpg?1694321329',
+      'publishedAt': '2023-09-10T06:30:00Z',
+      'content': 'Pixel 8 Pixel 8 Pro 10 Google Pixel \r\nPixel 8 Pro Pixel SIM Google Pixel 8 Pro eSIM \r\nPixel 8 Pro 5 5 NFC\r\nPixel 8 Pro Google iPhone 15 iPhone 15 Google Apple Pixel 8 Pro\r\nPixel Pixel 8 Pixel 8 Pro T… [+88 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Techbang.com'
+      },
+      'author': 'cnBeta',
+      'title': '同樣都是Type-C外觀傳輸速度卻不同，為何差別這麼大？',
+      'description': '根據透露，普通的\xa0iPhone 15 的 Type-C 可能限速 480Mbps ，只有\xa0iPhone 15 Pro 以上的機型將具備 20Gbps 的速度隨著 iPhone15 使用 Type-C 插口這件事塵埃落定，Type-C 終於實現了統一江湖。\n為何要用統一這個詞？這當然是由於 Type-C 的應用範圍實在是太廣泛了，不僅除了 iPhone 以外的手機都使用這個接口，就連移動固態硬碟PSSD、數位相機，以及家用監視器、行車記錄器...等，各類 3C 產品也早都用上 Type-C 了，消費者終於能歡呼，可…',
+      'url': 'https://www.techbang.com/posts/109365-the-same-is-type-c-why-is-the-difference-so-big',
+      'urlToImage': 'https://cdn1.techbang.com/system/excerpt_images/109365/original/40a0e222650d047b372b476faf7beb87.jpg?1694307609',
+      'publishedAt': '2023-09-10T01:30:00Z',
+      'content': 'iPhone15 Type-C Type-C \r\n Type-C iPhone PSSD... 3C Type-C \r\n Apple iPhone15 Type-C \xa0iPhone 15 Type-C 480Mbps USB 2.0 \xa0iPhone 15 Pro 20Gbps USB3.2 Gen2x2 3 40Gbps\r\niPhone 15A16USB2.0ProA17USB3.2 Thund… [+258 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Giveawayoftheday.com'
+      },
+      'author': 'GOTD_Editor',
+      'title': 'AudGeek AppliTune Converter 1.7.4 (Win&Mac)',
+      'description': 'AudGeek AppliTune Converter is a smart and fast Apple Music Converter. It utilizes a built-in Apple Music web player to convert Apple Music songs, albums and playlists to MP3, AAC (M4A), FLAC, WAV or AIFF. It provides fast conversion speed and can preserve ID…',
+      'url': 'https://www.giveawayoftheday.com/audgeek-applitune-converter/',
+      'urlToImage': 'https://giveawayoftheday.com/wp-content/uploads/og/2023/08/cffd1b8008f890913ae905816533e5b4.png',
+      'publishedAt': '2023-09-10T08:00:00Z',
+      'content': 'A smart and fast Apple Music Converter. It utilizes a built-in Apple Music web player to convert Apple Music songs, albums and playlists to MP3, AAC (M4A), FLAC, WAV or AIFF.\r\nCoupon Code: gotdag40, … [+779 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Basicthinking.de'
+      },
+      'author': 'Andrea Keller',
+      'title': 'Produkt-Flops: Das sind 10 skurrilsten Produkte aller Zeiten',
+      'description': 'Ob der Apple Newton,\xa0Toilettenpapier von Tempo oder der Ford Edsel: Eines haben alle diese Produkte gemeinsam. Sie haben nie den Durchbruch geschafft. In unserem wöchentlichen Ranking\xa0präsentieren\xa0wir dir deshalb die zehn\xa0größten Produkt-Flops aller Zeiten. N…',
+      'url': 'https://www.basicthinking.de/blog/2023/09/10/produkt-flops-das-sind-10-skurrilsten-produkte-aller-zeiten/',
+      'urlToImage': 'https://www.basicthinking.de/blog/wp-content/uploads/2023/09/produkt-flops-1.jpg',
+      'publishedAt': '2023-09-10T19:15:40Z',
+      'content': 'Ob der Apple Newton,\xa0Toilettenpapier von Tempo oder der Ford Edsel: Eines haben alle diese Produkte gemeinsam. Sie haben nie den Durchbruch geschafft. In unserem wöchentlichen Ranking\xa0präsentieren\xa0wi… [+955 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Free.com.tw'
+      },
+      'author': 'Pseric',
+      'title': 'TweetDeleter 協助刪除舊推特貼文，讓社群網站紀錄更乾淨',
+      'description': '現代人的生活和社群網站連結相當緊密，各類型的動態、相片影片都很習慣上傳分享到社群平台，可能無形中累積大量回憶， […]\n這篇文章 TweetDeleter 協助刪除舊推特貼文，讓社群網站紀錄更乾淨 最早出現在 免費資源網路社群 ，請追蹤 Google 新聞、Facebook、Twitter 或 RSS feed 獲取更多科技新知及免費資源相關介紹教學。',
+      'url': 'https://free.com.tw/?p=99484',
+      'urlToImage': 'https://free.com.tw/wp-content/uploads/2023/09/83822995-32B8-408A-A588-F4E430C4DD25.jpeg',
+      'publishedAt': '2023-09-10T02:00:00Z',
+      'content': 'TweetDeleter X\r\n TweetDeleter Twitter FacebookInstagram \r\nTweetDeleter Twitter profanities\r\n Twitter \r\n TweetDeleter StandardAdvanced Unlimited 100 Advanced 3000 $7.99 $11.99 \r\nTweetDeleterhttps://tw… [+304 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Gizmodo.com'
+      },
+      'author': 'Justin Carter',
+      'title': 'El remake de la Mansión Encantada asustará a Disney+ en octubre',
+      'description': 'En julio, Disney lanzó su remake de mansión embrujada, que en realidad no iluminó el mundo con fuego espectral cuando salió. Parte de esto se debió a otras grandes películas lanzando a finales de julio en ese momento, y robando cualquier trueno que podría hab…',
+      'url': 'https://es.gizmodo.com/mansion-encantada-2023-remake-disney-plus-octubre-1850823270',
+      'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9f59896b29c717ae71e070ed6e7d013b.jpg',
+      'publishedAt': '2023-09-10T16:00:00Z',
+      'content': 'En julio, Disney lanzó su remake de mansión embrujada, que en realidad no iluminó el mundo con fuego espectral cuando salió. Parte de esto se debió a otras grandes películas lanzando a finales de jul… [+2396 chars]'
+    },
+    {
+      'source': {
+        'id': None,
+        'name': 'Ascii.jp'
+      },
+      'author': 'ASCII',
+      'title': 'AppleWatchに話しかけて聴きれば便利、生成AI活用例',
+      'description': '話しかけてAIが聞きたい曲を推薦。',
+      'url': 'https://weekly.ascii.jp/elem/000/004/155/4155460/',
+      'urlToImage': 'https://ascii.jp/img/2023/09/10/3600596/l/4698b7335af0f668.jpg',
+      'publishedAt': '2023-09-10T00:00:00Z',
+      'content': 'roomAIrooAIDJ\r\nAI\r\nAIAI\r\nVolumioChatGPTAISuper SearchVolumioAI\r\nRoonAIRoonAI\r\nrooAIDJRoonCarl-Werner OehlrichRoon/Roon\r\nChatGPTAIRoon\r\nHIGH END MunichOehlrichOehlrichiPad\r\niPadrooAIDJ1970rooAIDJ10\r\nR… [+92 chars]'
+    },
+    {
+      'source': {
+        'id': 'ign',
+        'name': 'IGN'
+      },
+      'author': 'Jacob Kienlen',
+      'title': 'How to Cancel Your Disney Plus Subscription',
+      'description': 'Price hikes are coming.',
+      'url': 'https://www.ign.com/articles/how-to-cancel-disney-plus',
+      'urlToImage': 'https://assets-prd.ignimgs.com/2023/09/10/disney-plus-logo-background-1660165113633-1694375348278.jpg?width=1280',
+      'publishedAt': '2023-09-10T22:30:00Z',
+      'content': "It's official, Disney Plus has announced that it will be raising prices for it's subscription service staring on October 12. With the ad-free version of the subscription jumping $3 a month, you may b… [+3158 chars]"
+    },
+    {
+      'source': {
+        'id': 'ign',
+        'name': 'IGN'
+      },
+      'author': 'Logan Plant',
+      'title': 'Daily Deals: Save on The Last of Us 4K UHD, LEGO Star Wars BD-1, Disney Illusion Island, and More',
+      'description': None,
+      'url': 'https://www.ign.com/articles/daily-deals-save-on-the-last-of-us-4k-uhd-lego-star-wars-bd-1-disney-illusion-island-and-more',
+      'urlToImage': 'https://assets-prd.ignimgs.com/2023/06/15/12908211-1671745643746-1686853071092.jpg?width=1280',
+      'publishedAt': '2023-09-10T16:23:10Z',
+      'content': "Today's daily deals for Sunday, September 10 include sales on Nintendo Switch games like Disney Illusion Island and Bayonetta 3, a discount on an Xbox wireless controller, The Last of Us 4K UHD on sa… [+9155 chars]"
+    }
+  ]
+}
